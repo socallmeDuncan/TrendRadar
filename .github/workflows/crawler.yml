@@ -3,7 +3,7 @@ name: Hot News Crawler
 on:
   schedule:
     - cron: "30 23 * * *"   # 北京 7:30
-    - cron: "30 0-11 * * *" # 北京 8:30-19:30
+    - cron: "30 0-1 * * *" # 北京 8:30-19:30
   workflow_dispatch:
 
 # 添加权限设置
