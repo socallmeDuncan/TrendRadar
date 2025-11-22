@@ -1,63 +1,50 @@
 {
-  "generated_at": "2025-11-22T21:02:22.299305+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2025-11-23T07:42:35.261210+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "山东 济南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "丁薛祥在山东和河北调研时强调 确保“十四五”规划圆满收官 为“十五五”开局起步打好基础",
+          "url": "https://wallstreetcn.com/livenews/3009018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "丁薛祥在山东、河北调研",
+          "url": "https://flash.jin10.com/detail/20251122220711872800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "证监会",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
           "url": "https://www.cls.cn/detail/2207918",
           "source": "财联社热门",
           "ranks": [
-            6,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时41分 ~ 21时02分]"
-        },
-        {
-          "title": "涉嫌信息披露违法违规，聚石化学、豪尔赛被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2207698",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
-        },
-        {
-          "title": "兆威机电、迈威生物港股IPO获中国证监会备案",
-          "url": "https://wallstreetcn.com/livenews/3008968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 19时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "山东泰山达成中国顶级联赛总积分1500",
-          "url": "https://www.toutiao.com/trending/7575398802866536467/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "07时42分"
         }
       ]
     }
