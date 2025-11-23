@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T18:44:16.972539+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2025-11-23T19:41:23.461970+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.douyin.com/hot/2314875",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 19时41分]"
         },
         {
           "title": "丁薛祥在山东、河北调研",
