@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T07:42:35.261210+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-23T18:44:16.972539+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "丁薛祥在山东和河北调研时强调 确保“十四五”规划圆满收官 为“十五五”开局起步打好基础",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "山东泰山5:1武汉三镇收官",
+          "url": "https://www.douyin.com/hot/2314875",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 18时44分]"
         },
         {
           "title": "丁薛祥在山东、河北调研",
@@ -43,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 18时44分]"
         }
       ]
     }
