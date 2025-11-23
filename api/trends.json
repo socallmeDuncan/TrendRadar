@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T19:41:23.461970+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2025-11-23T21:02:23.750750+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时43分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[18时43分 ~ 21时02分]"
         },
         {
           "title": "丁薛祥在山东、河北调研",
