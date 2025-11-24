@@ -1,39 +1,8 @@
 {
-  "generated_at": "2025-11-24T21:11:49.826085+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2025-11-25T07:43:12.937621+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "证监会",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "驻证监会纪检监察组原组长王会民被开除党籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32029036",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 21时11分]"
-        },
-        {
-          "title": "证监会原党委委员王会民被开除党籍",
-          "url": "https://www.cls.cn/detail/2208610",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时43分]"
-        }
-      ]
-    },
     {
       "keyword_group": "山东 济南",
       "match_count": 1,
@@ -43,12 +12,28 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32030308",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时43分 ~ 21时11分]"
+          "time_info": "[07时42分 ~ 07时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "驻证监会纪检监察组原组长王会民被开除党籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32029036",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 07时43分]"
         }
       ]
     }
