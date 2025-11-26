@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-11-26T21:13:49.775457+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2025-11-27T07:42:28.980530+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "山东女厅官张艳丽被查",
-          "url": "https://www.toutiao.com/trending/7576493541283597865/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
