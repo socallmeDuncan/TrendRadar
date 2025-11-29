@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T19:41:44.165598+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2025-11-29T21:05:39.712727+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 21时05分]"
         },
         {
           "title": "国务院安委会部署开展高层建筑重大火灾风险隐患排查整治行动",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 21时05分]"
         },
         {
           "title": "国务院安委会部署排查高层火灾隐患",
@@ -107,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 21时05分]"
         }
       ]
     },
