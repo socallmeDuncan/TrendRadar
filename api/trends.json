@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T19:41:43.779919+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2025-11-30T21:05:41.516431+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32070282",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 19时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 21时05分]"
         },
         {
           "title": "山东泰安城区挖出汉代古墓？假的",
@@ -41,11 +42,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 19时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 21时05分]"
         }
       ]
     },
@@ -76,11 +78,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 19时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 21时05分]"
         }
       ]
     }
