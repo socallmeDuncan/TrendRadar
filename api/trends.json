@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T19:44:23.319781+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2025-12-01T21:21:16.789372+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 19时44分]"
+          "appearance_count": 5,
+          "time_info": "[18时51分 ~ 21时21分]"
         },
         {
           "title": "山东威海一 14 岁初中生体测倒地后猝死，如何避免此类情况再次发生？哪些问题值得反思？",
