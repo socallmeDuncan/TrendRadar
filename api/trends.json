@@ -1,8 +1,48 @@
 {
-  "generated_at": "2025-12-03T19:45:18.601896+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2025-12-03T21:21:07.852137+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "国务院",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "李强主持国务院第十七次专题学习",
+          "url": "https://www.cls.cn/detail/2218697",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "国务院：支持上海发挥龙头带动作用，加强上海大都市圈与苏锡常都市圈空间融合",
+          "url": "https://wallstreetcn.com/livenews/3014387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时45分]"
+        },
+        {
+          "title": "李强主持国务院第十七次专题学习：展望“十五五”时期，新型城镇化发展空间仍然很大",
+          "url": "https://wallstreetcn.com/livenews/3014440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        }
+      ]
+    },
     {
       "keyword_group": "山东 济南",
       "match_count": 1,
@@ -17,24 +57,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国务院：支持上海发挥龙头带动作用，加强上海大都市圈与苏锡常都市圈空间融合",
-          "url": "https://wallstreetcn.com/livenews/3014387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时45分]"
         }
       ]
     }
