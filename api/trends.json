@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T19:41:41.186308+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2025-12-06T21:06:09.790267+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】险资入市再获松绑！股市望迎千亿资金；事关市值管理、现金分红等，证监会征求意见",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时41分]"
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 21时06分]"
         },
         {
           "title": "证监会：对市值管理、现金分红、股份回购等作出明确要求 推动上市公司提升投资价值、增强回报投资者意识",
@@ -28,6 +28,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "证监会主席吴清最新发声",
+          "url": "https://www.toutiao.com/trending/7580666656759398438/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
+          "title": "证监会主席吴清：适度打开优质券商资本空间和杠杆限制 加密资产等看不清的业务坚决不做！",
+          "url": "https://wallstreetcn.com/articles/3760845",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "证监会主席吴清：一流机构不仅是规模大 还需专业强、服务优",
@@ -64,11 +86,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时41分]"
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 21时06分]"
         }
       ]
     }
