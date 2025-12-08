@@ -1,63 +1,22 @@
 {
-  "generated_at": "2025-12-08T21:13:31.700550+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2025-12-09T07:43:21.143328+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "山东 济南",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "把济南5A景区做进游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8A%8A%E6%B5%8E%E5%8D%975A%E6%99%AF%E5%8C%BA%E5%81%9A%E8%BF%9B%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
-        },
-        {
-          "title": "2025年山东人工智能核心产业营收预计突破1200亿元，约占全国10%",
-          "url": "https://wallstreetcn.com/livenews/3016996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "证监会",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "证监会召开立法联系点工作座谈会",
-          "url": "https://wallstreetcn.com/livenews/3016968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 21时13分]"
-        },
         {
           "title": "证监会主席的表态，“适当松绑”对券商意味着什么？",
           "url": "https://wallstreetcn.com/articles/3760882",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 21时13分]"
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 07时43分]"
         }
       ]
     }
