@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-12-10T07:41:52.699130+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-10T18:53:00.500698+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "济南恒大城地库电车自燃，烧毁并熏坏大量车辆，地库损害严重，赔偿如何界定？电车自燃有无风控预警机制？",
+          "url": "https://www.zhihu.com/question/1981489509058249781",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 18时53分]"
+        }
+      ]
+    },
     {
       "keyword_group": "国务院",
       "match_count": 1,
