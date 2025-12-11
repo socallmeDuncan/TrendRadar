@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-11T18:52:41.504017+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2025-12-11T19:45:25.311817+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
       "match_count": 2,
       "titles": [
+        {
+          "title": "山东东营黄河口出现「鸟浪化鲲」震撼一幕，这是什么鸟？鸟群为何如此集群飞行？",
+          "url": "https://www.zhihu.com/question/1981291525523596720",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时45分]"
+        },
         {
           "title": "山东冠县地震",
           "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E5%86%A0%E5%8E%BF%E5%9C%B0%E9%9C%87&t=31&band_rank=11&Refer=top",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
-        },
-        {
-          "title": "山东东营黄河口出现「鸟浪化鲲」震撼一幕，这是什么鸟？鸟群为何如此集群飞行？",
-          "url": "https://www.zhihu.com/question/1981291525523596720",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         }
       ]
     },
@@ -42,7 +43,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         }
