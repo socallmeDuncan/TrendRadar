@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T07:42:55.123135+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-14T18:46:15.828377+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -62,22 +62,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32171966",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 18时46分]"
         },
         {
           "title": "国家发改委：提振消费要出实招出新招，综合整治“内卷式”竞争和培育发展新动能",
           "url": "https://wallstreetcn.com/articles/3761352",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 18时46分]"
         },
         {
           "title": "加紧清理拖欠企业账款 ，国家发改委明确时间表",
