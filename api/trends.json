@@ -1,44 +1,58 @@
 {
-  "generated_at": "2025-12-15T18:54:21.236584+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2025-12-15T19:44:41.137289+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "证监会：坚持固本强基，持续增强市场内在稳定性",
           "url": "https://www.cls.cn/detail/2229431",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时44分]"
         },
         {
           "title": "中央经济工作会议后，证监会首场会议点明12条重点改革方向",
           "url": "https://www.cls.cn/detail/2229896",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时44分]"
         },
         {
           "title": "证监会：核准三菱商事金属贸易（国际）有限公司合格境外投资者资格",
           "url": "https://wallstreetcn.com/livenews/3020905",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时44分]"
+        },
+        {
+          "title": "上海壁仞科技股份有限公司境外发行上市及境内未上市股份“全流通”获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3020930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "19时44分"
         }
       ]
     },
@@ -51,11 +65,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E9%A9%B3%E6%96%A5%E2%80%9C%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%A3%B0%E6%8F%B4%E8%8F%B2%E5%BE%8B%E5%AE%BE%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时44分]"
         }
       ]
     }
