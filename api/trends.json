@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T19:44:41.137289+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2025-12-15T21:25:10.428900+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,24 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "证监会：坚持固本强基，持续增强市场内在稳定性",
-          "url": "https://www.cls.cn/detail/2229431",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 19时44分]"
-        },
-        {
           "title": "中央经济工作会议后，证监会首场会议点明12条重点改革方向",
           "url": "https://www.cls.cn/detail/2229896",
           "source": "财联社热门",
           "ranks": [
             3,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时54分 ~ 21时25分]"
+        },
+        {
+          "title": "证监会：坚持固本强基，持续增强市场内在稳定性",
+          "url": "https://www.cls.cn/detail/2229431",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -50,7 +50,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         }
