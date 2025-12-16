@@ -1,40 +1,33 @@
 {
-  "generated_at": "2025-12-16T21:23:28.339594+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2025-12-17T07:44:43.944879+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
+      "keyword_group": "国务院",
+      "match_count": 2,
       "titles": [
         {
-          "title": "山东东营一对新人用1000元办了婚礼",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%9C%E8%90%A5%E4%B8%80%E5%AF%B9%E6%96%B0%E4%BA%BA%E7%94%A81000%E5%85%83%E5%8A%9E%E4%BA%86%E5%A9%9A%E7%A4%BC",
-          "source": "百度热搜",
+          "title": "美国务院批准1亿美元对日军售",
+          "url": "https://flash.jin10.com/detail/20251217065155458800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 21时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
         {
-          "title": "大族数控：发行境外上市股份（H股）获得中国证监会备案。",
-          "url": "https://wallstreetcn.com/livenews/3021681",
+          "title": "美国务院批准1亿美元对日军售",
+          "url": "https://wallstreetcn.com/livenews/3021944",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时23分"
+          "time_info": "07时44分"
         }
       ]
     }
