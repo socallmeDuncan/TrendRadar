@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-12-17T07:44:43.944879+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-17T18:52:06.753505+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "回顾山东舰硬核名场面",
+          "url": "https://www.douyin.com/hot/2339388",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
+        },
+        {
+          "title": "济南大明湖遗址发现龙山文化城墙，济南建城史上推至距今约 4200 年，有何深远意义？",
+          "url": "https://www.zhihu.com/question/1982567316353991713",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
+        }
+      ]
+    },
     {
       "keyword_group": "国务院",
       "match_count": 2,
