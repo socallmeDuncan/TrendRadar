@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T19:44:08.086109+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2025-12-19T21:11:51.486852+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -59,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 19时44分]"
+          "appearance_count": 4,
+          "time_info": "[18时50分 ~ 21时11分]"
         },
         {
           "title": "美国国防部表示，美国国务院已批准向北约支持与采购局出售“毒刺”导弹的零部件及相关设备，预计价值1.361亿美元。",
@@ -95,11 +95,12 @@
           "url": "https://www.cls.cn/detail/2234879",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 19时44分]"
+          "appearance_count": 4,
+          "time_info": "[18时50分 ~ 21时11分]"
         },
         {
           "title": "卓然股份：因涉嫌信息披露违法违规等事项，中国证监会决定对公司及实际控制人张锦红立案。",
@@ -108,7 +109,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         }
