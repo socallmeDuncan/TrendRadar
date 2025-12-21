@@ -1,47 +1,22 @@
 {
-  "generated_at": "2025-12-21T21:07:39.932283+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2025-12-22T07:43:52.715076+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "山楂树下“禁售”山东？记者实探",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E6%A5%82%E6%A0%91%E4%B8%8B%E2%80%9C%E7%A6%81%E5%94%AE%E2%80%9D%E5%B1%B1%E4%B8%9C%EF%BC%9F%E8%AE%B0%E8%80%85%E5%AE%9E%E6%8E%A2",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
         {
           "title": "山楂树下客服回应山东“限售”传闻",
           "url": "https://www.douyin.com/hot/2343186",
           "source": "抖音",
           "ranks": [
-            11,
-            8
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 21时07分]"
-        },
-        {
-          "title": "山楂树下饮料被传限售山东 客服回应",
-          "url": "https://www.toutiao.com/trending/7585761444634165275/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 21时07分]"
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "网传「山楂树下」对山东地区限售，记者实探线上线下供应正常，这一传闻为何会引发关注？",
@@ -51,25 +26,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 21时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国务院称日本主导核不扩散 或制衡首相官邸人士拥核论",
-          "url": "https://flash.jin10.com/detail/20251220181439511800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时42分"
+          "time_info": "07时43分"
         }
       ]
     }
