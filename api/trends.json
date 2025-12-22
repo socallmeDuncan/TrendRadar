@@ -1,8 +1,58 @@
 {
-  "generated_at": "2025-12-22T19:44:18.571120+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2025-12-22T21:12:14.146144+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "国务院",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "李强主持召开国务院“十五五”规划《纲要草案》编制工作领导小组会议，丁薛祥出席。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3024922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "财政部等两部门出台意见贯彻落实《国务院办公厅关于在政府采购中实施本国产品标准及相关政策的通知》",
+          "url": "https://wallstreetcn.com/livenews/3024912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "中共中央办公厅、国务院办公厅印发《关于做好2026年元旦春节期间有关工作的通知》",
+          "url": "https://wallstreetcn.com/livenews/3024856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "李强主持召开国务院“十五五”规划《纲要草案》编制工作领导小组会议强调 深入学习贯彻习近平总书记重要讲话精神 进一步做好“十五五”规划纲要编制工作 丁薛祥出席",
+          "url": "https://wallstreetcn.com/livenews/3024922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        }
+      ]
+    },
     {
       "keyword_group": "山东 济南",
       "match_count": 3,
@@ -43,41 +93,30 @@
       ]
     },
     {
-      "keyword_group": "国务院",
-      "match_count": 3,
+      "keyword_group": "证监会",
+      "match_count": 2,
       "titles": [
         {
-          "title": "李强主持召开国务院“十五五”规划《纲要草案》编制工作领导小组会议，丁薛祥出席。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3024922",
+          "title": "北京智谱华章港股IPO获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3024971",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时44分"
+          "time_info": "21时12分"
         },
         {
-          "title": "财政部等两部门出台意见贯彻落实《国务院办公厅关于在政府采购中实施本国产品标准及相关政策的通知》",
-          "url": "https://wallstreetcn.com/livenews/3024912",
+          "title": "MiniMax Group Inc.港股IPO获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3024970",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "中共中央办公厅、国务院办公厅印发《关于做好2026年元旦春节期间有关工作的通知》",
-          "url": "https://wallstreetcn.com/livenews/3024856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时50分"
+          "time_info": "21时12分"
         }
       ]
     }
