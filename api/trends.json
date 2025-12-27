@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T07:44:07.409685+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-27T18:47:05.713568+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时43分 ~ 07时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中方制裁军工企业，美国国务院还嘴硬",
+          "url": "https://news.ifeng.com/c/8pQY923EW6W",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
         }
       ]
     }
