@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T19:43:37.042055+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2025-12-28T21:09:55.865716+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "济南地铁三线齐发，市委书记等领导与市民代表共乘地铁调研",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            16
+            16,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时43分]"
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 21时09分]"
         },
         {
           "title": "2025 乒超女团决赛，深圳大学 3 比 1 战胜山东鲁能夺冠，如何评价这场比赛？",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
+        },
+        {
+          "title": "山东魏桥乒超夺冠",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%AD%8F%E6%A1%A5%E4%B9%92%E8%B6%85%E5%A4%BA%E5%86%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         }
       ]
     },
@@ -52,11 +64,12 @@
           "url": "https://www.toutiao.com/trending/7588767026315870249/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时09分]"
         },
         {
           "title": "国务院拟放开放宽除个别超大城市外的落户限制",
@@ -64,11 +77,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时43分]"
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 21时09分]"
         },
         {
           "title": "中方制裁军工企业，美国国务院还嘴硬",
