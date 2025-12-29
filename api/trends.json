@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T19:45:04.107925+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2025-12-29T21:22:31.490024+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 21时22分]"
         },
         {
           "title": "京台高速山东段6道改12道完成改造",
@@ -56,11 +57,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 21时22分]"
         },
         {
           "title": "国务院拟放开放宽落户限制",
