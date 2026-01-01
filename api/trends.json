@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:44:30.125841+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-01-01T21:12:07.600058+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 19时44分]"
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时12分]"
         },
         {
           "title": "如何看待河南和山东出现了大面积泉洞，地上河流复喷水流?",
@@ -37,6 +37,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "突发！300亿商业航天概念股涉嫌信息披露违法违规被证监会立案|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2245906",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时12分]"
+        },
+        {
           "title": "证监会：调降公募基金认申购费、销售服务费，持有期超一年的基金份额不收取销售服务费",
           "url": "https://wallstreetcn.com/articles/3762394",
           "source": "华尔街见闻",
@@ -47,17 +59,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时44分 ~ 19时44分]"
-        },
-        {
-          "title": "突发！300亿商业航天概念股涉嫌信息披露违法违规被证监会立案|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2245906",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 19时44分]"
         }
       ]
     }
