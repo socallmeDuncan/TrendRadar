@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-02T21:11:34.276311+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-01-03T07:43:35.963516+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "突发！300亿商业航天概念股涉嫌信息披露违法违规被证监会立案|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2245906",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
