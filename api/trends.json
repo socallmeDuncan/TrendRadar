@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T19:42:36.227711+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-01-04T21:09:56.438105+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国务院",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国务院：引导电器电子产品、汽车、动力电池等生产企业参与回收利用",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时47分 ~ 19时42分]"
+        },
+        {
+          "title": "国务院印发《固体废物综合治理行动计划》",
+          "url": "https://www.cls.cn/detail/2247184",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         }
       ]
     },
