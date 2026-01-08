@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T19:46:21.835745+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-01-08T21:25:06.411161+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 21时25分]"
         },
         {
           "title": "山东一闲置水井突喷热水变温泉",
