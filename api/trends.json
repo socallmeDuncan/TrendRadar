@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T07:45:06.293479+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-01-08T18:53:16.276652+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "山东一闲置水井突喷热水变温泉",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 07时45分]"
+        },
+        {
+          "title": "一生享福的山东人",
+          "url": "https://www.douyin.com/hot/2360345",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 18时53分]"
         },
         {
           "title": "山东一闲置水井突喷热水变“温泉”",
