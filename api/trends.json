@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T19:43:10.241340+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-01-10T21:09:17.079300+08:00",
+  "total_titles_processed": 727,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 19时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 21时09分]"
         },
         {
           "title": "【早报】两部门发文！取消光伏等产品增值税出口退税；天普股份被证监会立案调查",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 19时43分]"
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 21时09分]"
         },
         {
           "title": "天普股份被证监会立案调查",
@@ -46,11 +46,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32354606",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 19时43分]"
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 21时09分]"
         },
         {
           "title": "证监会大幅提高吹哨人奖励最高100万",
@@ -85,11 +86,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32352423",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 19时43分]"
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 21时09分]"
         }
       ]
     },
