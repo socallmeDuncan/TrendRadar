@@ -1,97 +1,50 @@
 {
-  "generated_at": "2026-01-10T21:09:17.079300+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-01-11T07:43:58.341229+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "16倍大牛股被证监会立案调查，多家机构曾现身十大流通股东",
           "url": "https://www.cls.cn/detail/2253599",
           "source": "财联社热门",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时44分 ~ 21时09分]"
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "【早报】两部门发文！取消光伏等产品增值税出口退税；天普股份被证监会立案调查",
           "url": "https://www.cls.cn/detail/2253721",
           "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时47分 ~ 21时09分]"
-        },
-        {
-          "title": "天普股份被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2253455",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 18时47分]"
-        },
-        {
-          "title": "奖金最高100万元！证监会大幅提高证券期货违法行为“吹哨人”奖励",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32354606",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时42分 ~ 21时09分]"
-        },
-        {
-          "title": "证监会大幅提高吹哨人奖励最高100万",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%A4%A7%E5%B9%85%E6%8F%90%E9%AB%98%E5%90%B9%E5%93%A8%E4%BA%BA%E5%A5%96%E5%8A%B1%E6%9C%80%E9%AB%98100%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            27
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时44分"
+          "time_info": "07时43分"
         }
       ]
     },
     {
       "keyword_group": "山东 济南",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "CBA北京首钢85:87山东高速",
-          "url": "https://www.douyin.com/hot/2362459",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
         {
           "title": "山东一企业主称承接学校工程被拖欠工程款，达成协议后每月还款又被“缩水”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32352423",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            10
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时47分 ~ 21时09分]"
+          "appearance_count": 1,
+          "time_info": "07时43分"
         }
       ]
     },
@@ -100,15 +53,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "国务院反垄断反不正当竞争委员会：外卖平台服务行业拼补贴、拼价格、控流量等问题突出 决定开展调查、评估",
-          "url": "https://www.cls.cn/detail/2253152",
-          "source": "财联社热门",
+          "title": "美国务院要求在委美国公民尽快撤离",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%A6%81%E6%B1%82%E5%9C%A8%E5%A7%94%E7%BE%8E%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB",
+          "source": "百度热搜",
           "ranks": [
-            9
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时44分"
+          "time_info": "07时43分"
         }
       ]
     }
