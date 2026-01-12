@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T19:46:12.304755+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-01-12T21:26:36.206542+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%88%91%E4%BB%AC%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E2%80%9C%E5%AE%81%E5%8F%A4%E5%A1%94%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时26分]"
         },
         {
           "title": "山东威海下了倾盆大瓢雪",
@@ -47,7 +48,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
