@@ -1,115 +1,39 @@
 {
-  "generated_at": "2026-01-15T21:24:36.496945+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-01-16T07:45:45.314283+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国务院",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "国务院国资委披露80多家央企负责人2024年度薪酬信息",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32383965",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时43分 ~ 19时46分]"
-        },
-        {
-          "title": "国务院国资委披露 80 多家央企负责人 2024 年度薪酬信息，如何看待这一信息？",
-          "url": "https://www.zhihu.com/question/1994864923994501998",
-          "source": "知乎",
-          "ranks": [
-            3,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时52分 ~ 21时24分]"
-        },
-        {
-          "title": "美众议院通过两项法案，为财政部和国务院提供资金",
-          "url": "https://wallstreetcn.com/livenews/3037357",
+          "title": "国务院国资委召开地方国资委负责人会议",
+          "url": "https://wallstreetcn.com/livenews/3038254",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
-          "title": "美众议院通过两项法案 为财政部和国务院提供资金",
-          "url": "https://flash.jin10.com/detail/20260115074255507800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "正直播CBA：山东vs宁波",
-          "url": "https://www.toutiao.com/trending/7595203430948572715/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
-        },
-        {
-          "title": "来山东泰安迎接足球与旅行的双重盛宴",
-          "url": "https://www.toutiao.com/trending/7595438098037735434/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
+          "time_info": "07时45分"
         }
       ]
     },
     {
       "keyword_group": "证监会",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "用马甲账户收受虚拟币买别墅，证监会科技监管司原司长姚前腐败细节披露",
-          "url": "https://www.cls.cn/detail/2257887",
-          "source": "财联社热门",
+          "title": "一次收受2000枚以太币，证监会科技监管司原司长姚前大搞权钱交易",
+          "url": "https://wallstreetcn.com/articles/3763326",
+          "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
-        },
-        {
-          "title": "证监会：同意尚水智能创业板IPO注册申请",
-          "url": "https://wallstreetcn.com/livenews/3037893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时53分"
+          "time_info": "07时45分"
         }
       ]
     }
