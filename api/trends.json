@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T19:46:13.522650+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-01-15T21:24:36.496945+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 21时24分]"
         },
         {
           "title": "美众议院通过两项法案，为财政部和国务院提供资金",
