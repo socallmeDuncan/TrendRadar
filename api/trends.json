@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T18:53:09.890066+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-01-15T19:46:13.522650+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时43分 ~ 18时53分]"
+          "appearance_count": 6,
+          "time_info": "[07时43分 ~ 19时46分]"
         },
         {
           "title": "国务院国资委披露 80 多家央企负责人 2024 年度薪酬信息，如何看待这一信息？",
           "url": "https://www.zhihu.com/question/1994864923994501998",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 18时53分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 19时46分]"
         },
         {
           "title": "美众议院通过两项法案，为财政部和国务院提供资金",
@@ -55,6 +57,34 @@
       ]
     },
     {
+      "keyword_group": "山东 济南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "正直播CBA：山东vs宁波",
+          "url": "https://www.toutiao.com/trending/7595203430948572715/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 19时46分]"
+        },
+        {
+          "title": "来山东泰安迎接足球与旅行的双重盛宴",
+          "url": "https://www.toutiao.com/trending/7595438098037735434/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 19时46分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "证监会",
       "match_count": 2,
       "titles": [
@@ -76,7 +106,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         }
