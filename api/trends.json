@@ -1,191 +1,33 @@
 {
-  "generated_at": "2026-01-16T21:23:04.131386+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-01-17T07:45:13.835582+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "证监会部署2026年工作，关注十个新提法、新措辞",
-          "url": "https://www.cls.cn/detail/2260349",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 21时23分]"
-        },
-        {
-          "title": "证监会：坚持稳字当头，巩固市场稳中向好势头",
-          "url": "https://www.cls.cn/detail/2260235",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 21时23分]"
-        },
-        {
-          "title": "证监会征求意见：支持开发满足中长期资金风险管理需求的衍生品，依法限制过度投机行为",
-          "url": "https://wallstreetcn.com/livenews/3038759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
         {
           "title": "证监会：坚持稳字当头，及时做好逆周期调节，严肃查处违法违规行为，防止市场大起大落",
           "url": "https://wallstreetcn.com/articles/3763457",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 21时23分]"
-        },
-        {
-          "title": "证监会征求意见：遵循审慎监管原则 可以对衍生品交易实施逆周期调节管理",
-          "url": "https://wallstreetcn.com/livenews/3038757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时45分"
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
         },
         {
           "title": "证监会：坚决防止市场大起大落",
           "url": "https://www.douyin.com/hot/2369854",
           "source": "抖音",
           "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时45分 ~ 21时23分]"
-        },
-        {
-          "title": "中国证监会就《衍生品交易监督管理办法（试行）（征求意见稿）》公开征求意见",
-          "url": "https://wallstreetcn.com/livenews/3038755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "证监会：坚决防止市场大起大落",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%9D%9A%E5%86%B3%E9%98%B2%E6%AD%A2%E5%B8%82%E5%9C%BA%E5%A4%A7%E8%B5%B7%E5%A4%A7%E8%90%BD",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 21时23分]"
-        },
-        {
-          "title": "证监会：坚决防止市场大起大落",
-          "url": "https://www.toutiao.com/trending/7595134592676642852/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时45分]"
-        },
-        {
-          "title": "一次收受2000枚以太币，证监会科技监管司原司长姚前大搞权钱交易",
-          "url": "https://wallstreetcn.com/articles/3763326",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "鼎信通讯：公司董事兼副总经理袁志双因涉嫌短线交易公司股票，收到中国证监会出具的《立案告知书》。",
-          "url": "https://wallstreetcn.com/livenews/3038669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "李强主持召开国务院常务会议，审议通过《国务院关于修改和废止部分行政法规的决定（草案）》。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3038754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "李强主持召开国务院常务会议，部署做好清理拖欠企业账款和保障农民工工资支付有关工作。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3038752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "李强主持召开国务院常务会议，听取提振消费专项行动进展情况汇报并研究加快培育服务消费新增长点等促销费举措。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3038750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "国务院国资委召开地方国资委负责人会议",
-          "url": "https://wallstreetcn.com/livenews/3038254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时45分"
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
         }
       ]
     }
