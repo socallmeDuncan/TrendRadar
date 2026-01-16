@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T19:45:49.348678+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-01-16T21:23:04.131386+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时23分]"
         },
         {
           "title": "证监会：坚持稳字当头，巩固市场稳中向好势头",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时23分]"
         },
         {
           "title": "证监会征求意见：支持开发满足中长期资金风险管理需求的衍生品，依法限制过度投机行为",
@@ -38,29 +39,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "证监会征求意见：遵循审慎监管原则 可以对衍生品交易实施逆周期调节管理",
-          "url": "https://wallstreetcn.com/livenews/3038757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "中国证监会就《衍生品交易监督管理办法（试行）（征求意见稿）》公开征求意见",
-          "url": "https://wallstreetcn.com/livenews/3038755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -70,11 +49,46 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时23分]"
+        },
+        {
+          "title": "证监会征求意见：遵循审慎监管原则 可以对衍生品交易实施逆周期调节管理",
+          "url": "https://wallstreetcn.com/livenews/3038757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "证监会：坚决防止市场大起大落",
+          "url": "https://www.douyin.com/hot/2369854",
+          "source": "抖音",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时23分]"
+        },
+        {
+          "title": "中国证监会就《衍生品交易监督管理办法（试行）（征求意见稿）》公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3038755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "证监会：坚决防止市场大起大落",
@@ -82,11 +96,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时23分]"
         },
         {
           "title": "证监会：坚决防止市场大起大落",
@@ -99,17 +114,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时52分 ~ 19时45分]"
-        },
-        {
-          "title": "证监会：坚决防止市场大起大落",
-          "url": "https://www.douyin.com/hot/2369854",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
         },
         {
           "title": "一次收受2000枚以太币，证监会科技监管司原司长姚前大搞权钱交易",
@@ -146,7 +150,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -157,7 +161,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -168,7 +172,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
