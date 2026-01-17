@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T07:45:13.835582+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-17T18:47:18.512938+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "证监会：坚持稳字当头，及时做好逆周期调节，严肃查处违法违规行为，防止市场大起大落",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 07时45分]"
+        },
+        {
+          "title": "【早报】证监会发声！坚持稳字当头，巩固市场稳中向好势头；税务部门提醒纳税人对近三年境外所得开展自查",
+          "url": "https://www.cls.cn/detail/2261013",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "证监会：坚决防止市场大起大落",
