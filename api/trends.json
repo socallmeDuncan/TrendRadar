@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T21:09:05.218984+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2026-01-18T07:44:13.361733+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "【早报】证监会发声！坚持稳字当头，巩固市场稳中向好势头；税务部门提醒纳税人对近三年境外所得开展自查",
@@ -15,30 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时47分 ~ 21时09分]"
-        },
-        {
-          "title": "证监会：坚持稳字当头，及时做好逆周期调节，严肃查处违法违规行为，防止市场大起大落",
-          "url": "https://wallstreetcn.com/articles/3763457",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "证监会：坚决防止市场大起大落",
-          "url": "https://www.douyin.com/hot/2369854",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "time_info": "[07时43分 ~ 07时44分]"
         }
       ]
     }
