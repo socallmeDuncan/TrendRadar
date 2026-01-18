@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T19:42:51.407930+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-01-18T21:09:25.500138+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】证监会发声！坚持稳字当头，巩固市场稳中向好势头；税务部门提醒纳税人对近三年境外所得开展自查",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时43分 ~ 07时44分]"
+        },
+        {
+          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://www.cls.cn/detail/2261399",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "容百科技：因公司重大合同公告涉嫌误导性陈述等，中国证监会决定对公司予以立案。",
