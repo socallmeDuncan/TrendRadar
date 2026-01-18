@@ -1,80 +1,61 @@
 {
-  "generated_at": "2026-01-18T21:09:25.500138+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-01-19T07:44:43.131574+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "证监会",
-      "match_count": 6,
+      "keyword_group": "山东 济南",
+      "match_count": 2,
       "titles": [
         {
-          "title": "【早报】证监会发声！坚持稳字当头，巩固市场稳中向好势头；税务部门提醒纳税人对近三年境外所得开展自查",
-          "url": "https://www.cls.cn/detail/2261013",
-          "source": "财联社热门",
+          "title": "山东下大雪把车都埋了",
+          "url": "https://www.toutiao.com/trending/7596302943712706606/",
+          "source": "今日头条",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
+          "appearance_count": 1,
+          "time_info": "07时44分"
         },
+        {
+          "title": "济南下“暴雨梨花针”了",
+          "url": "https://www.douyin.com/hot/2372000",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "证监会",
+      "match_count": 2,
+      "titles": [
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
           "url": "https://www.cls.cn/detail/2261399",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时09分]"
-        },
-        {
-          "title": "容百科技：因公司重大合同公告涉嫌误导性陈述等，中国证监会决定对公司予以立案。",
-          "url": "https://wallstreetcn.com/livenews/3039216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 19时42分]"
-        },
-        {
-          "title": "容百科技：因重大合同公告涉嫌误导性陈述被证监会立案",
-          "url": "https://flash.jin10.com/detail/20260118164451621800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 19时42分]"
-        },
-        {
-          "title": "证监会对容百科技重大合同公告涉嫌误导性陈述立案调查",
-          "url": "https://flash.jin10.com/detail/20260118164128881800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 19时42分]"
-        },
-        {
-          "title": "证监会对容百科技重大合同公告涉嫌误导性陈述立案调查",
-          "url": "https://wallstreetcn.com/livenews/3039214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "07时44分"
+        },
+        {
+          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时44分"
         }
       ]
     }
