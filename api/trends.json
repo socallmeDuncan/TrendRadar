@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T18:57:33.047690+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-01-19T19:46:55.581931+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "url": "https://www.toutiao.com/trending/7596943133692952639/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 18时57分]"
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 19时46分]"
         },
         {
           "title": "国务院安委会对包钢板材厂爆炸事故查处挂牌督办",
