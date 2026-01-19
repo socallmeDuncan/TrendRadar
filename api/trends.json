@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T07:44:43.131574+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-19T18:57:33.047690+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "山东下大雪把车都埋了",
@@ -28,6 +28,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "济南下暴雨梨花针了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E4%B8%8B%E6%9A%B4%E9%9B%A8%E6%A2%A8%E8%8A%B1%E9%92%88%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国务院挂牌督办包钢爆炸事故",
+          "url": "https://www.douyin.com/hot/2372757",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "国务院安委会挂牌督办包钢爆炸事故",
+          "url": "https://www.toutiao.com/trending/7596943133692952639/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "国务院安委会对包钢板材厂爆炸事故查处挂牌督办",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414416",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         }
       ]
     },
@@ -51,11 +101,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时44分"
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 18时57分]"
         }
       ]
     }
