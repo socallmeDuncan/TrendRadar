@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-20T21:30:27.080790+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-01-21T07:47:35.742327+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最高检：会同证监会深化资本市场法治建设 从严惩治财务造假、操纵市场等证券犯罪",
-          "url": "https://www.cls.cn/detail/2262709",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 07时46分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
