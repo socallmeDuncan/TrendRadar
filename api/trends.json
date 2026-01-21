@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-01-21T07:47:35.742327+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-21T18:58:15.207319+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "西安WE战胜济南RW侠",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E5%AE%89WE%20%E6%B5%8E%E5%8D%97RW%E4%BE%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
+        },
+        {
+          "title": "山东淄博一中学生篮球赛后爆发冲突",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B7%84%E5%8D%9A%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%94%9F%E7%AF%AE%E7%90%83%E8%B5%9B%E5%90%8E%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
