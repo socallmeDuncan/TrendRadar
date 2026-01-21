@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T19:48:41.256540+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-01-21T21:29:08.892640+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E5%AE%89WE%20%E6%B5%8E%E5%8D%97RW%E4%BE%A0",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时57分 ~ 19时48分]"
+          "appearance_count": 5,
+          "time_info": "[18时57分 ~ 21时29分]"
         },
         {
           "title": "山东淄博一中学生篮球赛后爆发冲突",
@@ -37,7 +38,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         }
@@ -54,7 +55,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         }
