@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T19:46:22.381482+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-01-26T21:28:27.455800+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 21时28分]"
         },
         {
           "title": "宋军继辞去山东省副省长职务",
@@ -45,7 +46,7 @@
     },
     {
       "keyword_group": "证监会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "东北证券获中国证监会批复发行不超过100亿元公司债券。",
@@ -69,6 +70,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "证监会开年出重拳",
+          "url": "https://www.douyin.com/hot/2379752",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国务院：免去李旭职务",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%EF%BC%9A%E5%85%8D%E5%8E%BB%E6%9D%8E%E6%97%AD%E8%81%8C%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     }
