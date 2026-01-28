@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-28T21:32:00.710686+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-01-29T07:51:34.688134+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "山东钢铁：预计2025年净利润为5.71亿元",
-          "url": "https://wallstreetcn.com/livenews/3045492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
