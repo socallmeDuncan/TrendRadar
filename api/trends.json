@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-01-31T21:26:28.266264+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2026-02-01T07:48:58.633439+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国务院要求非紧急政府雇员从尼日尔撤离",
-          "url": "https://wallstreetcn.com/livenews/3047607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "证监会：拟扩大上市公司战略投资者类型 明确最低持股比例要求",
-          "url": "https://www.cls.cn/detail/2275956",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
