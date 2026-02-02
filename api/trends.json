@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-02T07:51:09.909280+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-02T19:23:00.718475+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "国务院",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中共中央、国务院：要建成以首都为核心的世界一流都市圈、先行示范中国式现代化的首善之区",
+          "url": "https://www.cls.cn/detail/2277893",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
