@@ -1,39 +1,22 @@
 {
-  "generated_at": "2026-02-03T21:45:17.273220+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-02-04T07:54:29.806583+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "山东 济南",
+      "keyword_group": "国务院",
       "match_count": 1,
       "titles": [
         {
-          "title": "李强在山东调研强调：靠前发力实施各项政策，坚决把党中央各项决策部署落实到位",
-          "url": "https://www.cls.cn/detail/2278125",
-          "source": "财联社热门",
+          "title": "中共中央 国务院关于锚定农业农村现代化 扎实推进乡村全面振兴的意见",
+          "url": "https://wallstreetcn.com/articles/3764850",
+          "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "证监会主席吴清会见英国金融行为监管局主席欧达礼",
-          "url": "https://wallstreetcn.com/livenews/3049062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时10分"
+          "time_info": "07时54分"
         }
       ]
     }
