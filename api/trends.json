@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T19:09:58.821923+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-02-04T19:58:01.470678+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8qSkPOAGaNR",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 19时58分]"
         },
         {
           "title": "中共中央 国务院关于锚定农业农村现代化 扎实推进乡村全面振兴的意见",
