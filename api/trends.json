@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T21:48:35.159350+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-02-06T07:51:54.911419+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -12,29 +12,11 @@
           "url": "https://www.toutiao.com/trending/7603219105579368474/",
           "source": "今日头条",
           "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 21时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国务院任免国家工作人员",
-          "url": "https://wallstreetcn.com/livenews/3050606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时59分"
+          "time_info": "07时51分"
         }
       ]
     },
@@ -43,15 +25,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "倍轻松：因实际控制人马学军先生涉嫌操纵证券市场，中国证监会决定对其立案。本次调查事项系对马学军先生个人的调查，不会对公司的日常运营造成重大影响，其本人仍在公司正常履职。",
-          "url": "https://wallstreetcn.com/livenews/3050582",
-          "source": "华尔街见闻-快讯",
+          "title": "突发！这家公司实控人因涉嫌操纵证券市场被证监会立案|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2282010",
+          "source": "财联社热门",
           "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "07时51分"
         }
       ]
     }
