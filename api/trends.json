@@ -1,11 +1,61 @@
 {
-  "generated_at": "2026-02-06T07:51:54.911419+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-06T19:09:55.046160+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "证监会",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "证监会对亚辉龙公告涉嫌误导性陈述立案调查",
+          "url": "https://wallstreetcn.com/livenews/3051355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "香港证监会召开第三次数字资产咨询小组会议",
+          "url": "https://wallstreetcn.com/livenews/3051353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "天晟新材：因公司涉嫌信息披露违法违规，中国证监会决定对公司立案。",
+          "url": "https://wallstreetcn.com/livenews/3051349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "突发！这家公司实控人因涉嫌操纵证券市场被证监会立案|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2282010",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "山东 济南",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "宝宝到山东探亲一个月身高猛涨4cm",
@@ -17,23 +67,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "突发！这家公司实控人因涉嫌操纵证券市场被证监会立案|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2282010",
-          "source": "财联社热门",
+          "title": "水饺遇上山东话说唱",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B0%B4%E9%A5%BA%E9%81%87%E4%B8%8A%E5%B1%B1%E4%B8%9C%E8%AF%9D%E8%AF%B4%E5%94%B1",
+          "source": "bilibili 热搜",
           "ranks": [
-            13
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "19时09分"
+        },
+        {
+          "title": "山东老人捡回15年的狗为他拉车",
+          "url": "https://www.toutiao.com/trending/7603191390999281707/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         }
       ]
     }
