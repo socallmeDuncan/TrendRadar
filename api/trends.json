@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-02-07T07:53:04.908465+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-07T18:55:57.687300+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "山东曲阜因为孔子应该是有顶级的旅游资源，为什么没有成为旅游胜地？",
+          "url": "https://www.zhihu.com/question/2000862827871749561",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "山东夫妻卖身体乳狂揽19亿元",
+          "url": "https://www.toutiao.com/trending/7603700376094195739/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "山东男子开飞机带父亲回家过年",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E7%94%B7%E5%AD%90%E5%BC%80%E9%A3%9E%E6%9C%BA%E5%B8%A6%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "水饺遇上山东话说唱",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B0%B4%E9%A5%BA%E9%81%87%E4%B8%8A%E5%B1%B1%E4%B8%9C%E8%AF%9D%E8%AF%B4%E5%94%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "发改委",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家发改委：2025年社会物流总费用与GDP的比率为13.9%",
+          "url": "https://wallstreetcn.com/livenews/3051706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        }
+      ]
+    },
     {
       "keyword_group": "国务院",
       "match_count": 1,
@@ -14,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         }
