@@ -1,100 +1,44 @@
 {
-  "generated_at": "2026-02-07T21:28:20.889876+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-02-08T07:59:31.279749+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "山东曲阜因为孔子应该是有顶级的旅游资源，为什么没有成为旅游胜地？",
-          "url": "https://www.zhihu.com/question/2000862827871749561",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 21时28分]"
-        },
         {
           "title": "山东夫妻卖身体乳狂揽19亿元",
           "url": "https://www.toutiao.com/trending/7603700376094195739/",
           "source": "今日头条",
           "ranks": [
-            10,
-            19,
-            7,
-            17
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 21时28分]"
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
-          "title": "山东男子开飞机带父亲回家过年",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E7%94%B7%E5%AD%90%E5%BC%80%E9%A3%9E%E6%9C%BA%E5%B8%A6%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4",
+          "title": "山东69岁“黑老大”段效灵被执行死刑",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C69%E5%B2%81%E2%80%9C%E9%BB%91%E8%80%81%E5%A4%A7%E2%80%9D%E6%AE%B5%E6%95%88%E7%81%B5%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
           "source": "百度热搜",
           "ranks": [
-            17,
-            9,
-            23
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 21时28分]"
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "水饺遇上山东话说唱",
           "url": "https://search.bilibili.com/all?keyword=%E6%B0%B4%E9%A5%BA%E9%81%87%E4%B8%8A%E5%B1%B1%E4%B8%9C%E8%AF%9D%E8%AF%B4%E5%94%B1",
           "source": "bilibili 热搜",
           "ranks": [
-            23,
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 21时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家发改委：2025年社会物流总费用与GDP的比率为13.9%",
-          "url": "https://wallstreetcn.com/livenews/3051706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 21时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国国防部：美国国务院批准向乌克兰出售价值1.85亿美元的IX级备件及相关设备。",
-          "url": "https://flash.jin10.com/detail/20260207040357695800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时59分"
         }
       ]
     }
