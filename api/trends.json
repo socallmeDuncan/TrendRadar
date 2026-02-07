@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T19:48:03.038982+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-02-07T21:28:20.889876+08:00",
+  "total_titles_processed": 727,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时28分]"
         },
         {
           "title": "山东夫妻卖身体乳狂揽19亿元",
@@ -26,11 +27,12 @@
           "ranks": [
             10,
             19,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时28分]"
         },
         {
           "title": "山东男子开飞机带父亲回家过年",
@@ -38,11 +40,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时28分]"
         },
         {
           "title": "水饺遇上山东话说唱",
@@ -50,11 +53,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时28分]"
         }
       ]
     },
@@ -68,11 +72,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时48分]"
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 21时28分]"
         }
       ]
     },
