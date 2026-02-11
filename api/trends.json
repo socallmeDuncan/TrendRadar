@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-02-11T20:06:50.550070+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-02-11T21:57:59.310278+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国务院",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "国务院：到2035年全面建成全国统一电力市场体系 市场化交易电量占比稳中有升",
           "url": "https://www.cls.cn/detail/2287286",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 20时06分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时57分]"
+        },
+        {
+          "title": "国务院国资委：央企要积极扩大算力有效投资",
+          "url": "https://www.cls.cn/detail/2287558",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "李强主持国务院第十八次专题学习：全面推进人工智能科技创新、产业发展和赋能应用",
@@ -25,15 +37,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
+        },
+        {
+          "title": "国务院国资委推动中央企业积极扩大算力有效投资",
+          "url": "https://wallstreetcn.com/livenews/3053747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         }
       ]
     },
     {
       "keyword_group": "证监会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "香港证监会：警惕假冒股评人的“唱高散货”投资骗局",
@@ -42,7 +65,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -56,6 +79,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "香港证监会解禁虚拟资产保证金借贷，首设永续合约发行高层次框架，合格虚拟资产抵押品仅限比特币和以太币",
+          "url": "https://wallstreetcn.com/livenews/3053767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         }
       ]
     },
