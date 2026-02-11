@@ -1,98 +1,39 @@
 {
-  "generated_at": "2026-02-10T22:03:06.083216+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-02-11T08:04:38.922781+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "山东招远蚕庄金矿事故致7死，矿长等11人被控制",
           "url": "https://m.thepaper.cn/newsDetail_forward_32574392",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 22时03分]"
-        },
-        {
-          "title": "山东招远金矿事故致 7 人死亡，当地涉嫌瞒报，具体情况如何？瞒报要承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2004455764220146434",
-          "source": "知乎",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时09分]"
-        },
-        {
-          "title": "山东一金矿发生事故致7死 涉嫌瞒报",
-          "url": "https://www.toutiao.com/trending/7604889675261545993/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
-        },
-        {
-          "title": "山东烟台一金矿事故致7死",
-          "url": "https://www.douyin.com/hot/2395421",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
-        },
-        {
-          "title": "山东招远一金矿发生坠罐事故致7死",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%8B%9B%E8%BF%9C%E4%B8%80%E9%87%91%E7%9F%BF%E5%8F%91%E7%94%9F%E5%9D%A0%E7%BD%90%E4%BA%8B%E6%95%85%E8%87%B47%E6%AD%BB%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
     {
       "keyword_group": "发改委",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
           "url": "https://www.cls.cn/detail/2286121",
           "source": "财联社热门",
           "ranks": [
-            7,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 22时03分]"
-        },
-        {
-          "title": "国家发改委等部门：加快招标投标领域人工智能推广应用",
-          "url": "https://wallstreetcn.com/livenews/3052950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时31分"
+          "time_info": "08时04分"
         }
       ]
     }
