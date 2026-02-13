@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-02-13T19:11:17.032527+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-02-13T19:57:29.144986+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "证监会：严肃查处天风证券违法违规行为",
           "url": "https://www.cls.cn/detail/2289672",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时57分]"
+        },
+        {
+          "title": "英集芯：因公司涉嫌信息披露违法违规，中国证监会决定对公司进行立案。",
+          "url": "https://wallstreetcn.com/livenews/3055171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "19时57分"
+        },
+        {
+          "title": "证监会对英集芯相关信息披露涉嫌误导性陈述立案调查",
+          "url": "https://wallstreetcn.com/livenews/3055161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "证监会：对太平洋证券股份有限公司采取警示函措施",
@@ -25,7 +48,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         }
@@ -33,7 +56,7 @@
     },
     {
       "keyword_group": "国务院",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国务院食安办、市场监管总局部署各地强化婴幼儿配方乳粉质量安全管控",
@@ -42,9 +65,20 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时57分]"
+        },
+        {
+          "title": "国务院同意河北雄安高新技术产业开发区升级为国家高新技术产业开发区",
+          "url": "https://wallstreetcn.com/livenews/3055152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "19时57分"
         }
       ]
     }
