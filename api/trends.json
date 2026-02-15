@@ -1,94 +1,22 @@
 {
-  "generated_at": "2026-02-15T21:29:43.839968+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-02-16T07:53:57.272492+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "国务院",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国国务院：美国国务卿鲁比奥对叙利亚政府承诺与美国和全球联盟充分合作表示欢迎。",
-          "url": "https://flash.jin10.com/detail/20260214203733946800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥强调在叙利亚东北部落实永久停火与整合协议的重要性。",
-          "url": "https://flash.jin10.com/detail/20260214202724226800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥会见了叙利亚外交部长阿萨德·沙伊巴尼和叙利亚民主力量总司令马兹卢姆·阿卜迪。",
-          "url": "https://flash.jin10.com/detail/20260214202531771800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "国务院安委会办公室部署进一步加强安全生产“打非治违”工作",
-          "url": "https://wallstreetcn.com/livenews/3055536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "山东 济南",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "山东春晚",
-          "url": "https://www.toutiao.com/trending/7606491429414109220/",
+          "title": "雷佳山东春晚舞台意境感拉满",
+          "url": "https://www.toutiao.com/trending/7606489991598293042/",
           "source": "今日头条",
           "ranks": [
-            4
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "山东卫视春晚",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "2026山东春节联欢晚会",
-          "url": "https://search.bilibili.com/all?keyword=2026%E5%B1%B1%E4%B8%9C%E6%98%A5%E8%8A%82%E8%81%94%E6%AC%A2%E6%99%9A%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
+          "time_info": "07时53分"
         }
       ]
     }
