@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-02-17T21:48:21.926685+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-02-18T07:56:33.007825+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "山东一村600多人集体磕头拜年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E6%9D%91600%E5%A4%9A%E4%BA%BA%E9%9B%86%E4%BD%93%E7%A3%95%E5%A4%B4%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "看懂了山东磕头拜年泪目了",
+          "url": "https://www.baidu.com/s?wd=%E7%9C%8B%E6%87%82%E4%BA%86%E5%B1%B1%E4%B8%9C%E7%A3%95%E5%A4%B4%E6%8B%9C%E5%B9%B4%E6%B3%AA%E7%9B%AE%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
