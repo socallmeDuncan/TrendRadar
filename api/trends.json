@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-02-20T08:02:45.613547+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-20T19:08:04.812955+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "国务院",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国务院安委办通报两起烟花爆竹爆燃事故，部署全链条安全监管",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32635340",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 19时08分]"
+        },
+        {
+          "title": "谌贻琴代表党中央、国务院向中国体育代表团致贺电",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32633111",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 19时08分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
