@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T19:08:04.812955+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-02-20T19:57:34.895901+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32635340",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 19时08分]"
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 19时57分]"
         },
         {
           "title": "谌贻琴代表党中央、国务院向中国体育代表团致贺电",
