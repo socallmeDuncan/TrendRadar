@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T21:27:16.363775+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-02-22T07:50:16.588842+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "山东网友自驾去重庆 开了10小时弃车",
@@ -15,37 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
-        },
-        {
-          "title": "全网都在帮济南找鳌鱼",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E5%B8%AE%E6%B5%8E%E5%8D%97%E6%89%BE%E9%B3%8C%E9%B1%BC",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时47分 ~ 21时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国务院安委办通报两起烟花爆竹爆燃事故，部署全链条安全监管",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32635340",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "07时50分"
         }
       ]
     }
