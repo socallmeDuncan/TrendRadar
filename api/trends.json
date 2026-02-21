@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-02-21T18:55:22.497369+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-02-21T19:48:07.352224+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全网都在帮济南找鳌鱼",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E5%B8%AE%E6%B5%8E%E5%8D%97%E6%89%BE%E9%B3%8C%E9%B1%BC",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 19时48分]"
+        }
+      ]
+    },
     {
       "keyword_group": "国务院",
       "match_count": 1,
