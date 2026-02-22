@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T07:50:16.588842+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-22T18:55:02.797056+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "山东网友自驾去重庆 开了10小时弃车",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "济南巨型空飘鳌鱼被风吹走 全网帮找",
+          "url": "https://www.toutiao.com/trending/7609260857691930666/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 18时55分]"
         }
       ]
     }
