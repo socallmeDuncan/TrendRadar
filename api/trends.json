@@ -1,34 +1,22 @@
 {
-  "generated_at": "2026-02-22T21:28:24.258151+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-02-23T07:52:32.025707+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "山东网友自驾去重庆 开了10小时弃车",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E7%BD%91%E5%8F%8B%E8%87%AA%E9%A9%BE%E5%8E%BB%E9%87%8D%E5%BA%86+%E5%BC%80%E4%BA%8610%E5%B0%8F%E6%97%B6%E5%BC%83%E8%BD%A6",
+          "title": "全网关心的济南“出逃”鳌鱼找到了",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BD%91%E5%85%B3%E5%BF%83%E7%9A%84%E6%B5%8E%E5%8D%97%E2%80%9C%E5%87%BA%E9%80%83%E2%80%9D%E9%B3%8C%E9%B1%BC%E6%89%BE%E5%88%B0%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "济南巨型空飘鳌鱼被风吹走 全网帮找",
-          "url": "https://www.toutiao.com/trending/7609260857691930666/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 19时48分]"
+          "time_info": "07时52分"
         }
       ]
     }
