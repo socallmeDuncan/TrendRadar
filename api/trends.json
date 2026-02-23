@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T20:03:10.356006+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-02-23T21:51:04.683507+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%93%AC%E8%8E%B1%E2%80%9C%E5%AE%B0%E5%AE%A2%E2%80%9D%E9%85%92%E6%A5%BC%E6%8B%9B%E7%89%8C%E8%A2%AB%E5%BC%BA%E6%8B%86",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 20时03分]"
+          "appearance_count": 5,
+          "time_info": "[19时33分 ~ 21时51分]"
         },
         {
           "title": "全网关心的济南“出逃”鳌鱼找到了",
