@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T07:52:32.025707+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-23T19:33:48.155949+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "全网关心的济南“出逃”鳌鱼找到了",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "山东蓬莱“宰客”酒楼招牌被强拆",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%93%AC%E8%8E%B1%E2%80%9C%E5%AE%B0%E5%AE%A2%E2%80%9D%E9%85%92%E6%A5%BC%E6%8B%9B%E7%89%8C%E8%A2%AB%E5%BC%BA%E6%8B%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         }
       ]
     }
