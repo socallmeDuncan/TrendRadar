@@ -1,34 +1,39 @@
 {
-  "generated_at": "2026-02-23T21:51:04.683507+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-02-24T07:56:27.677613+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "山东蓬莱“宰客”酒楼招牌被强拆",
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%93%AC%E8%8E%B1%E2%80%9C%E5%AE%B0%E5%AE%A2%E2%80%9D%E9%85%92%E6%A5%BC%E6%8B%9B%E7%89%8C%E8%A2%AB%E5%BC%BA%E6%8B%86",
           "source": "百度热搜",
           "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时33分 ~ 21时51分]"
-        },
-        {
-          "title": "全网关心的济南“出逃”鳌鱼找到了",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BD%91%E5%85%B3%E5%BF%83%E7%9A%84%E6%B5%8E%E5%8D%97%E2%80%9C%E5%87%BA%E9%80%83%E2%80%9D%E9%B3%8C%E9%B1%BC%E6%89%BE%E5%88%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "07时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国国务院：美国国务卿鲁比奥与沙特阿拉伯外长通话。",
+          "url": "https://flash.jin10.com/detail/20260224065901902800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     }
