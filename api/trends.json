@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T07:56:27.677613+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-24T19:25:40.411880+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "香港证监会已于香港和英格兰及威尔斯取得全球性法庭命令，以冻结涉嫌参与内幕交易的一名香港交易所前职员及其姻亲高达430万港元（549,690美元）的资产。",
+          "url": "https://wallstreetcn.com/livenews/3058074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         }
       ]
     }
