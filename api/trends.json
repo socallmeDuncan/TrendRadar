@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-01T21:24:57.734491+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-03-02T07:49:56.322018+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "国务院",
+      "keyword_group": "发改委",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国国务院全球公共事务助理国务卿Dylan Johnson：鉴于当前情况，国务卿鲁比奥3月2日将不再前往以色列。",
-          "url": "https://flash.jin10.com/detail/20260301061452800800",
-          "source": "金十数据",
+          "title": "【早报】哈梅内伊遇害，外交部发声；国家发改委回应存储芯片价格上涨",
+          "url": "https://www.cls.cn/detail/2299148",
+          "source": "财联社热门",
           "ranks": [
-            20
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "07时49分"
         }
       ]
     }
