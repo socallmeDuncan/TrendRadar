@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-07T19:46:42.769913+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-03-07T21:23:30.921185+08:00",
+  "total_titles_processed": 740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "发改委",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国家发改委主任郑栅洁称，「十五五」时期支持「双一流」高校本科扩招 10 万人以上，可能有哪些考量？",
           "url": "https://www.zhihu.com/question/2013311145201644777",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时23分]"
         },
         {
           "title": "国家发改委：支持社会力量提供多元化普惠托育服务，探索建立育儿补贴动态调整机制",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时51分 ~ 19时46分]"
+        },
+        {
+          "title": "国家发改委：国家发展规划法草案正同步审议",
+          "url": "https://flash.jin10.com/detail/20260307195818291800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "国家发改委：将培育壮大海洋生物医药等新兴产业，提高现代航运、海洋旅游等服务业发展水平",
@@ -89,8 +101,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 19时46分]"
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 21时23分]"
         },
         {
           "title": "证监会主席吴清称，目前 A 股总市值超过 110 万亿元，意味着什么，对普通投资者有哪些影响？",
@@ -101,8 +113,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时23分]"
         }
       ]
     },
@@ -118,8 +130,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时23分]"
         }
       ]
     }
