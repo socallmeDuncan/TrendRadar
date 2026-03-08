@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-08T19:47:23.261658+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-03-08T21:25:03.666371+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
       "match_count": 3,
       "titles": [
+        {
+          "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
+          "url": "https://www.cls.cn/detail/2306367",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时53分 ~ 21时25分]"
+        },
         {
           "title": "证监会发布《关于短线交易监管的若干规定》",
           "url": "https://www.cls.cn/detail/2305727",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
-        },
-        {
-          "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
-          "url": "https://www.cls.cn/detail/2306367",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 19时47分]"
         },
         {
           "title": "证监会主席吴清称，目前 A 股总市值超过 110 万亿元，意味着什么，对普通投资者有哪些影响？",
@@ -66,7 +67,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         }
