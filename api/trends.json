@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-10T21:45:19.332470+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-03-11T07:52:51.691937+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "济南共享菜园走红：出租率超90%",
+          "url": "https://www.toutiao.com/trending/7614847945629417514/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
