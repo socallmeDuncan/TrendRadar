@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T19:58:15.165514+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-03-11T21:47:18.712960+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E7%AB%8B%E5%86%9B%E4%BB%A4%E7%8A%B6%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%89%BE%E9%87%9120-50%E5%90%A8",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 19时58分]"
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 21时47分]"
         },
         {
           "title": "山东立军令状：今年找金20-50吨",
