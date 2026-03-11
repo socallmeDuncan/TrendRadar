@@ -1,59 +1,7 @@
 {
-  "generated_at": "2026-03-11T21:47:18.712960+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-03-12T07:52:10.931106+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "济南共享菜园走红：出租率超90%",
-          "url": "https://www.toutiao.com/trending/7614847945629417514/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "山东立军令状：今年找金20-50吨",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E7%AB%8B%E5%86%9B%E4%BB%A4%E7%8A%B6%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%89%BE%E9%87%9120-50%E5%90%A8",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时09分 ~ 21时47分]"
-        },
-        {
-          "title": "山东立军令状：今年找金20-50吨",
-          "url": "https://www.toutiao.com/trending/7614833156621877254/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 19时58分]"
-        },
-        {
-          "title": "金价杀疯了山东直接去地下2700米挖",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9D%80%E7%96%AF%E4%BA%86%E5%B1%B1%E4%B8%9C%E7%9B%B4%E6%8E%A5%E5%8E%BB%E5%9C%B0%E4%B8%8B2700%E7%B1%B3%E6%8C%96%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
