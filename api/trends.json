@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-12T21:44:54.585377+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-03-13T08:03:55.383373+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "香港证监会、廉政公署：2家券商涉嫌受贿超400万、助对冲基金获利3.15亿，8人被捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32753914",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
