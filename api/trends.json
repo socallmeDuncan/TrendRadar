@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T18:56:58.441997+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-03-14T19:50:27.108041+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 18时56分]"
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 19时50分]"
+        },
+        {
+          "title": "证监会会议透露哪些看点",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E4%BC%9A%E8%AE%AE%E9%80%8F%E9%9C%B2%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时50分]"
         },
         {
           "title": "证监会：严厉打击财务造假、操纵市场、内幕交易、虚假陈述等违法违规行为",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 07时54分]"
-        },
-        {
-          "title": "证监会会议透露哪些看点",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E4%BC%9A%E8%AE%AE%E9%80%8F%E9%9C%B2%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         }
       ]
     },
@@ -53,11 +54,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 18时56分]"
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 19时50分]"
         }
       ]
     }
