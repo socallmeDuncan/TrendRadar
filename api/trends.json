@@ -1,54 +1,7 @@
 {
-  "generated_at": "2026-03-15T21:32:29.963932+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-03-16T07:56:05.448323+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "国务院",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国务院安委办对近期4起典型较大事故查处挂牌督办。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3070261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时51分]"
-        },
-        {
-          "title": "两会结束国务院立刻行动",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%E7%BB%93%E6%9D%9F%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%AB%8B%E5%88%BB%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "证监会会议透露哪些看点",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E4%BC%9A%E8%AE%AE%E9%80%8F%E9%9C%B2%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
