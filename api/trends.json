@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T20:07:47.688482+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-03-16T22:03:19.175119+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国务院",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据央视：李强主持召开国务院第十一次全体会议。",
@@ -19,13 +19,24 @@
           "time_info": "19时29分"
         },
         {
+          "title": "李强主持召开国务院第十一次全体会议",
+          "url": "https://www.cls.cn/detail/2314518",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "李强主持召开国务院第十一次全体会议：加快发展新一代智能制造",
           "url": "https://wallstreetcn.com/livenews/3070896",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         }
