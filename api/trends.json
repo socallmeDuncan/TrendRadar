@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-03-17T21:59:53.637510+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-03-18T08:02:05.479857+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李强主持召开国务院第十一次全体会议",
-          "url": "https://www.cls.cn/detail/2314518",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
