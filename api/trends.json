@@ -1,70 +1,7 @@
 {
-  "generated_at": "2026-03-19T21:50:46.404207+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-03-20T07:55:28.342700+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "证监会",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“投资者保护”首次写入十五五，证监会火速部署：坚决清除“拦路虎”与“绊脚石”",
-          "url": "https://www.cls.cn/detail/2317111",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
-        },
-        {
-          "title": "证监会：严肃查处破坏资本市场秩序、侵害中小投资者利益的人和事 坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
-          "url": "https://www.cls.cn/detail/2316785",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "山东日照辟谣观光列车冲入大海",
-          "url": "https://www.toutiao.com/trending/7618516429198508038/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时10分 ~ 21时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "发改委推出新一批重大外资项目",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%E6%8E%A8%E5%87%BA%E6%96%B0%E4%B8%80%E6%89%B9%E9%87%8D%E5%A4%A7%E5%A4%96%E8%B5%84%E9%A1%B9%E7%9B%AE",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
