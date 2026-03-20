@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-03-20T21:42:58.033672+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-03-21T07:54:16.613345+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "*ST奥维：因公司涉嫌信息披露违法违规，中国证监会决定对公司立案。",
-          "url": "https://wallstreetcn.com/livenews/3074084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
