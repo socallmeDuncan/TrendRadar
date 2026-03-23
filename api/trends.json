@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-03-23T20:05:48.223918+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-03-23T21:57:19.735422+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "山东临沂“活鱼麻醉”涉事市场及商户被立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32814473",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时05分 ~ 21时57分]"
+        },
+        {
+          "title": "山东入室抢婴案二审即将宣判",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%85%A5%E5%AE%A4%E6%8A%A2%E5%A9%B4%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%8D%B3%E5%B0%86%E5%AE%A3%E5%88%A4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        }
+      ]
+    },
     {
       "keyword_group": "国务院",
       "match_count": 2,
@@ -32,23 +61,6 @@
       ]
     },
     {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "山东临沂“活鱼麻醉”涉事市场及商户被立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32814473",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "发改委",
       "match_count": 1,
       "titles": [
@@ -60,8 +72,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 20时05分]"
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 21时57分]"
         }
       ]
     },
@@ -76,7 +88,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         }
