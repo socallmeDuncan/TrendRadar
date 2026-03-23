@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T07:54:30.394933+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-03-23T19:26:10.009772+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "发改委",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家发改委：国家对成品油价格采取临时调控措施",
+          "url": "https://www.cls.cn/detail/2321305",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
         }
       ]
     }
