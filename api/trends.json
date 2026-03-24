@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-24T19:26:50.440066+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-03-24T20:07:00.511274+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
       "match_count": 2,
       "titles": [
+        {
+          "title": "山东泰安入室抢婴案二审宣判：驳回上诉，维持原判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818080",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 20时07分]"
+        },
         {
           "title": "山东临沂“活鱼麻醉”涉事市场及商户被立案调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32814473",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "山东泰安入室抢婴案二审宣判：驳回上诉，维持原判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818080",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
         }
       ]
     }
