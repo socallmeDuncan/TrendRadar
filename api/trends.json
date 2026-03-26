@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-25T21:57:49.826724+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-03-26T08:02:09.417557+08:00",
+  "total_titles_processed": 322,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "山东 济南",
+      "keyword_group": "国务院",
       "match_count": 1,
       "titles": [
         {
-          "title": "山东泰安入室抢婴案二审宣判：驳回上诉，维持原判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818080",
-          "source": "澎湃新闻",
+          "title": "中共中央办公厅 国务院办公厅关于加快建立长期护理保险制度的意见",
+          "url": "https://www.cls.cn/detail/2324857",
+          "source": "财联社热门",
           "ranks": [
-            11
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         }
       ]
     }
