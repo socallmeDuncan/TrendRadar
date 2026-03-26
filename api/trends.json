@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T20:11:43.955107+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-03-26T22:07:43.121644+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "山东黄金：2025年净利润47.39亿元，同比增长60.57%",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时30分 ~ 20时11分]"
+        },
+        {
+          "title": "山东师大砍掉25个本科专业",
+          "url": "https://news.ifeng.com/c/8roXFgUrdiY",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "山东黄金：2025年净利润47.39亿元，同比增长60.57%",
