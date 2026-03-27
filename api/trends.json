@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T20:06:26.377290+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-03-27T21:52:49.430675+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国务院",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "李强主持召开国务院常务会议，研究加快建设分级诊疗体系有关政策措施。（央视新闻）",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时25分 ~ 20时06分]"
+        },
+        {
+          "title": "李强主持召开国务院常务会议",
+          "url": "https://www.cls.cn/detail/2327336",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
@@ -68,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时06分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时52分]"
         }
       ]
     },
