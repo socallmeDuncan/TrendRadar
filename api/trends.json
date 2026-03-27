@@ -1,103 +1,39 @@
 {
-  "generated_at": "2026-03-27T21:52:49.430675+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-03-28T07:55:49.653159+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国务院",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "李强主持召开国务院常务会议，研究加快建设分级诊疗体系有关政策措施。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3078206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时06分]"
-        },
-        {
-          "title": "李强主持召开国务院常务会议，听取当前我国服务业发展情况汇报。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3078204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时06分]"
-        },
-        {
-          "title": "李强主持召开国务院常务会议，学习贯彻习近平总书记在深入推进雄安新区高质量建设和发展座谈会上的重要讲话精神。 (央视新闻)",
-          "url": "https://wallstreetcn.com/livenews/3078207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时06分]"
-        },
         {
           "title": "李强主持召开国务院常务会议",
           "url": "https://www.cls.cn/detail/2327336",
           "source": "财联社热门",
           "ranks": [
-            7
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时52分"
+          "time_info": "07时55分"
         }
       ]
     },
     {
       "keyword_group": "证监会",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "证监会：2025年中长期资金新增入市规模超一万亿",
-          "url": "https://www.cls.cn/detail/2326537",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时06分]"
-        },
-        {
-          "title": "证监会原发行审核委员会主任委员郭旭东被移送起诉",
-          "url": "https://www.cls.cn/detail/2326877",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 21时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "山东 济南",
       "match_count": 1,
       "titles": [
         {
-          "title": "山东师大砍掉25个本科专业",
-          "url": "https://news.ifeng.com/c/8roXFgUrdiY",
-          "source": "凤凰网",
+          "title": "证监会：2026年将加快重点领域立法修法，提高制度包容性、适应性和竞争力、吸引力",
+          "url": "https://www.cls.cn/detail/2327407",
+          "source": "财联社热门",
           "ranks": [
-            10
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "07时55分"
         }
       ]
     }
