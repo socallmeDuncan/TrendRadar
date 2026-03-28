@@ -1,76 +1,22 @@
 {
-  "generated_at": "2026-03-28T21:34:58.401037+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-03-29T07:57:58.848204+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国务院",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "李强主持召开国务院常务会议",
-          "url": "https://www.cls.cn/detail/2327336",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "国务院食安办、市场监管总局约谈相关地方市级人民政府负责人",
-          "url": "https://flash.jin10.com/detail/20260328190159310800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 21时34分]"
-        },
-        {
-          "title": "国务院食安办、市场监管总局约谈相关地方市级人民政府负责人 督办“3・15”晚会曝光问题整改",
-          "url": "https://wallstreetcn.com/livenews/3078574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 21时34分]"
-        },
         {
           "title": "国务院食安办、市场监管总局约谈315晚会曝光问题地方政府负责人",
           "url": "https://m.thepaper.cn/newsDetail_forward_32851798",
           "source": "澎湃新闻",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "证监会：2026年将加快重点领域立法修法，提高制度包容性、适应性和竞争力、吸引力",
-          "url": "https://www.cls.cn/detail/2327407",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            7,
-            8
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时55分 ~ 21时34分]"
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     }
