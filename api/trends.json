@@ -1,26 +1,8 @@
 {
-  "generated_at": "2026-03-29T21:36:34.701882+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-03-30T07:59:13.746830+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国务院食安办、市场监管总局约谈315晚会曝光问题地方政府负责人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32851798",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 19时03分]"
-        }
-      ]
-    },
     {
       "keyword_group": "证监会",
       "match_count": 1,
@@ -30,11 +12,11 @@
           "url": "https://www.cls.cn/detail/2328136",
           "source": "财联社热门",
           "ranks": [
-            8
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
         }
       ]
     }
