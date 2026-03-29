@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T19:54:26.075332+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-03-29T21:36:34.701882+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时57分 ~ 19时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周末要闻汇总：证监会2026年将加快重点领域立法修法；美军地面战数周速决方案曝光",
+          "url": "https://www.cls.cn/detail/2328136",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     }
