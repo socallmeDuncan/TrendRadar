@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-03-30T22:08:30.328380+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-03-31T08:02:45.325639+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "证监会",
-      "match_count": 1,
+      "keyword_group": "山东 济南",
+      "match_count": 2,
       "titles": [
         {
-          "title": "周末要闻汇总：证监会2026年将加快重点领域立法修法；美军地面战数周速决方案曝光",
-          "url": "https://www.cls.cn/detail/2328136",
-          "source": "财联社热门",
+          "title": "山东、湖南、贵州加入“春秋假”行列",
+          "url": "https://wallstreetcn.com/livenews/3079649",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "山东省设立中小学春秋假期",
+          "url": "https://www.douyin.com/hot/2449334",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         }
       ]
     }
