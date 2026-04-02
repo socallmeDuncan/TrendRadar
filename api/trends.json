@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T07:59:54.652424+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-02T19:27:02.533351+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国务院任免国家工作人员",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%BB%BB%E5%85%8D%E5%9B%BD%E5%AE%B6%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国泰海通：获证监会同意发行总额不超过350亿元人民币永续次级债券。 获证监会同意发行总额不超150亿元人民币科技创新公司债券。",
+          "url": "https://wallstreetcn.com/livenews/3081525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         }
       ]
     }
