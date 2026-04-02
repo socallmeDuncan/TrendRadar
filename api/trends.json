@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T20:10:11.202801+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-04-02T22:05:00.834757+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            1
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 20时10分]"
+          "appearance_count": 6,
+          "time_info": "[19时26分 ~ 22时05分]"
         },
         {
           "title": "国务院食安办、市场监管总局、海关总署约谈3家平台企业",
@@ -26,7 +27,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         }
