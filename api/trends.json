@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T20:04:00.492078+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2026-04-03T21:45:33.882779+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "keyword_group": "证监会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "*ST观典：收到中国证券监督管理委员会《立案告知书》，因公司涉嫌信息披露违法违规等，中国证监会决定对公司立案。",
@@ -47,6 +47,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时22分 ~ 20时04分]"
+        },
+        {
+          "title": "因涉嫌信披违法违规，*ST观典、电科数字被证监会立案",
+          "url": "https://www.cls.cn/detail/2334952",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     }
