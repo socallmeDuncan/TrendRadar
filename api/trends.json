@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T19:54:57.688891+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-04-04T21:37:00.932834+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2335221",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时54分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 21时37分]"
         },
         {
           "title": "因涉嫌信披违法违规，*ST观典、电科数字被证监会立案",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 19时54分]"
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 21时37分]"
         }
       ]
     }
