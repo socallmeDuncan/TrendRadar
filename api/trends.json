@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-04-06T20:09:43.490344+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-04-06T21:54:12.397404+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "CBA山东vs广东卡位战",
+          "url": "https://www.douyin.com/hot/2457331",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        }
+      ]
+    },
     {
       "keyword_group": "证监会",
       "match_count": 1,
