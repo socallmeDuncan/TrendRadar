@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T21:54:12.397404+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-04-07T08:02:10.888958+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
@@ -8,32 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "CBA山东vs广东卡位战",
+          "title": "CBA山东99:86战胜广东",
           "url": "https://www.douyin.com/hot/2457331",
           "source": "抖音",
           "ranks": [
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
-          "url": "https://www.cls.cn/detail/2335221",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "time_info": "[08时01分 ~ 08时02分]"
         }
       ]
     }
