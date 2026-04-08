@@ -1,36 +1,8 @@
 {
-  "generated_at": "2026-04-07T22:10:31.125576+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-04-08T08:05:42.790354+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "CBA山东99:86战胜广东",
-          "url": "https://www.douyin.com/hot/2457331",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "山东一小学要求 6：40 前到校，迟到需罚站，教体局介入后整改，为啥会这样？早到一小时就能提高成绩吗？",
-          "url": "https://www.zhihu.com/question/2023428986286479049",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        }
-      ]
-    },
     {
       "keyword_group": "国务院",
       "match_count": 1,
@@ -40,29 +12,11 @@
           "url": "https://www.cls.cn/detail/2336666",
           "source": "财联社热门",
           "ranks": [
-            7,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 22时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国证监会短线交易新规今起施行",
-          "url": "https://www.cls.cn/detail/2336160",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "08时05分"
         }
       ]
     }
