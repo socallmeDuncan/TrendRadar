@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-04-10T08:04:43.048130+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-10T19:28:11.045457+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "证监会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "证监会：增设创业板第四套上市标准",
+          "url": "https://www.cls.cn/detail/2340464",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
+        },
+        {
+          "title": "中金所：《中国金融期货交易所交易规则》（修订版）、《中国金融期货交易所结算规则》已经中国证监会批准，现予以发布。以上规则自2026年4月10日起实施。",
+          "url": "https://flash.jin10.com/detail/20260410190548092800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
