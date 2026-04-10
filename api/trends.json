@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T19:28:11.045457+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-04-10T20:09:26.454037+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 20时09分]"
         },
         {
           "title": "中金所：《中国金融期货交易所交易规则》（修订版）、《中国金融期货交易所结算规则》已经中国证监会批准，现予以发布。以上规则自2026年4月10日起实施。",
@@ -25,7 +25,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
