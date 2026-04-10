@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-04-10T20:09:26.454037+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2026-04-10T21:57:29.548426+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "证监会：增设创业板第四套上市标准",
           "url": "https://www.cls.cn/detail/2340464",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 20时09分]"
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 21时57分]"
+        },
+        {
+          "title": "【容百科技：在与宁德时代签署的重大合同公告中关于销售金额、采购量及供货期限等披露存在误导性陈述 ，公司及高管合计被罚950万元】公司收到中国证监会宁波监管局下发的《行政处罚决定书》。经查，公司在与宁德时代签署的重大合同公告中，关于销售金额、采购量及供货期限等披露存在误导性陈述。宁波证监局决定对公司给予警告，并处以450万元罚款；对董事长白厚善给予警告，并处以300万元罚款；对董事会秘书俞济芸给予警告，并处以200万元罚款。",
+          "url": "https://wallstreetcn.com/livenews/3085945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "中金所：《中国金融期货交易所交易规则》（修订版）、《中国金融期货交易所结算规则》已经中国证监会批准，现予以发布。以上规则自2026年4月10日起实施。",
