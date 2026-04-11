@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T19:56:45.454620+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-04-11T21:39:37.611962+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
@@ -74,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 19时56分]"
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 21时39分]"
         },
         {
           "title": "证监会发布创业板改革意见，增设第四套上市标准",
