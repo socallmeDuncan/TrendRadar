@@ -1,45 +1,78 @@
 {
-  "generated_at": "2026-04-10T21:57:29.548426+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-04-11T08:02:19.685913+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "证监会",
-      "match_count": 3,
+      "keyword_group": "国务院",
+      "match_count": 2,
       "titles": [
         {
-          "title": "证监会：增设创业板第四套上市标准",
-          "url": "https://www.cls.cn/detail/2340464",
-          "source": "财联社热门",
+          "title": "市场消息：黎巴嫩与以色列同意于周二在美国国务院举行首次会议，商讨宣布停火及确定谈判启动的日期。",
+          "url": "https://flash.jin10.com/detail/20260411040956375800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时27分 ~ 21时57分]"
-        },
-        {
-          "title": "【容百科技：在与宁德时代签署的重大合同公告中关于销售金额、采购量及供货期限等披露存在误导性陈述 ，公司及高管合计被罚950万元】公司收到中国证监会宁波监管局下发的《行政处罚决定书》。经查，公司在与宁德时代签署的重大合同公告中，关于销售金额、采购量及供货期限等披露存在误导性陈述。宁波证监局决定对公司给予警告，并处以450万元罚款；对董事长白厚善给予警告，并处以300万元罚款；对董事会秘书俞济芸给予警告，并处以200万元罚款。",
-          "url": "https://wallstreetcn.com/livenews/3085945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "08时02分"
         },
         {
-          "title": "中金所：《中国金融期货交易所交易规则》（修订版）、《中国金融期货交易所结算规则》已经中国证监会批准，现予以发布。以上规则自2026年4月10日起实施。",
-          "url": "https://flash.jin10.com/detail/20260410190548092800",
-          "source": "金十数据",
+          "title": "【以驻美大使：并未同意与黎真主党讨论停火问题】以色列驻美国大使叶希尔·莱特表示，以色列同意于14日与黎巴嫩举行会谈，但并未同意与黎真主党讨论停火问题。他表示，“真主党仍在持续袭击以色列，这是和平进程的主要障碍”。黎巴嫩总统府10日晚发表声明说，黎巴嫩和以色列同意14日在美国国务院举行首次会议，讨论宣布停火以及在美国主持下启动谈判的日期。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3086122",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时28分"
+          "time_info": "08时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "证监会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
+          "url": "https://www.cls.cn/detail/2341141",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "证监会发布创业板改革意见，增设第四套上市标准",
+          "url": "https://wallstreetcn.com/articles/3769674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "河南豫剧在山东有多受欢迎",
+          "url": "https://www.toutiao.com/trending/7626737865048768566/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         }
       ]
     }
