@@ -1,92 +1,22 @@
 {
-  "generated_at": "2026-04-11T21:39:37.611962+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-04-12T08:01:59.281608+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "山东 济南",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "山东港口青岛港一季度铝锭业务创历史新高",
-          "url": "https://flash.jin10.com/detail/20260411170217581800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 19时56分]"
-        },
-        {
-          "title": "河南豫剧在山东有多受欢迎",
-          "url": "https://www.toutiao.com/trending/7626737865048768566/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：黎巴嫩与以色列同意于周二在美国国务院举行首次会议，商讨宣布停火及确定谈判启动的日期。",
-          "url": "https://flash.jin10.com/detail/20260411040956375800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "【以驻美大使：并未同意与黎真主党讨论停火问题】以色列驻美国大使叶希尔·莱特表示，以色列同意于14日与黎巴嫩举行会谈，但并未同意与黎真主党讨论停火问题。他表示，“真主党仍在持续袭击以色列，这是和平进程的主要障碍”。黎巴嫩总统府10日晚发表声明说，黎巴嫩和以色列同意14日在美国国务院举行首次会议，讨论宣布停火以及在美国主持下启动谈判的日期。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3086122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "证监会",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
           "url": "https://www.cls.cn/detail/2341141",
           "source": "财联社热门",
           "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时02分 ~ 21时39分]"
-        },
-        {
-          "title": "证监会发布创业板改革意见，增设第四套上市标准",
-          "url": "https://wallstreetcn.com/articles/3769674",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时01分"
         }
       ]
     }
