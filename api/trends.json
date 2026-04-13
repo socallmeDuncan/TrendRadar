@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-12T21:42:52.556539+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-04-13T08:03:24.830168+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
-          "url": "https://www.cls.cn/detail/2341141",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
