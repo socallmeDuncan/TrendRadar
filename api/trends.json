@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-14T22:20:26.933853+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-04-15T08:09:48.615343+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "CBA辽宁80:75力克山东",
-          "url": "https://www.douyin.com/hot/2465106",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
