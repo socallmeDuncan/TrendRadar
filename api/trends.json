@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T19:40:00.954775+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-04-16T22:22:40.404986+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 22时22分]"
         },
         {
           "title": "马上看丨清水河变“牛奶河”！山东临沂一乡村河道污水横流、鱼虾绝迹、农田遭殃",
           "url": "https://m.thepaper.cn/newsDetail_forward_32978626",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 22时22分]"
         },
         {
           "title": "山东一河道变“牛奶河”气味刺鼻",
