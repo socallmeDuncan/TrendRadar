@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-15T22:12:51.020606+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-04-16T08:09:18.730695+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "山东临沂回应农业基地不干农业",
-          "url": "https://www.douyin.com/hot/2466533",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
