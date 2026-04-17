@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T22:22:40.404986+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-04-17T08:08:08.900761+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -15,31 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 22时22分]"
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 08时08分]"
         },
         {
           "title": "马上看丨清水河变“牛奶河”！山东临沂一乡村河道污水横流、鱼虾绝迹、农田遭殃",
           "url": "https://m.thepaper.cn/newsDetail_forward_32978626",
           "source": "澎湃新闻",
           "ranks": [
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 22时22分]"
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 08时08分]"
         },
         {
-          "title": "山东一河道变“牛奶河”气味刺鼻",
-          "url": "https://www.toutiao.com/trending/7629157043363463219/",
-          "source": "今日头条",
+          "title": "澎湃回声｜乡村河道成“牛奶河”，山东临沂回应：沿线管网破损溢流所致，正抢修",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32985447",
+          "source": "澎湃新闻",
           "ranks": [
-            27
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
+          "time_info": "[08时07分 ~ 08时08分]"
         }
       ]
     },
@@ -48,15 +47,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "国务院国资委：国资央企要因地制宜、稳妥有序推动低空经济高质量发展，加快低空航空装备创新迭代",
-          "url": "https://www.cls.cn/detail/2345821",
-          "source": "财联社热门",
+          "title": "美国务院：以黎停火期限可延长 以色列保留“自卫权利”",
+          "url": "https://flash.jin10.com/detail/20260417070521345800",
+          "source": "金十数据",
           "ranks": [
-            3
+            28
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         }
       ]
     }
