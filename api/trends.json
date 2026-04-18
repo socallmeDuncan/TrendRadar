@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T08:06:09.493403+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-18T19:10:56.197091+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
@@ -36,22 +36,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "国家发改委明确鼓励探索中小学春秋假！多地落实家长带薪休假，协同效应有望放大文旅消费热情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32994479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 19时10分]"
+        },
+        {
           "title": "国家发改委：将制定2026年至2030年扩大内需战略实施方案",
           "url": "https://m.thepaper.cn/newsDetail_forward_32991180",
           "source": "澎湃新闻",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 08时06分]"
-        },
-        {
-          "title": "国家发改委明确鼓励探索中小学春秋假！多地落实家长带薪休假，协同效应有望放大文旅消费热情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32994479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -79,11 +80,12 @@
           "url": "https://www.cls.cn/detail/2347870",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 08时06分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 19时10分]"
         }
       ]
     },
@@ -98,7 +100,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
