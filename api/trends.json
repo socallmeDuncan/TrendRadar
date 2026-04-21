@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-04-21T08:09:28.336685+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-04-21T19:42:21.769472+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "山东一法院干警配偶刚成立公司拍得银行六千万债权引质疑，多方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33017388",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        }
+      ]
+    },
     {
       "keyword_group": "国务院",
       "match_count": 1,
