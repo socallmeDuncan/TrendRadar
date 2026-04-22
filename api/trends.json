@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-04-21T22:17:22.883498+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-04-22T08:05:08.330482+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "国务院",
+      "keyword_group": "山东 济南",
       "match_count": 2,
       "titles": [
         {
-          "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
-          "url": "https://www.cls.cn/detail/2350762",
-          "source": "财联社热门",
+          "title": "媒体曝山东临沂法院干警配偶低价拍得六千万债权，官方已展开调查，该事件可能涉及哪些法律问题？",
+          "url": "https://www.zhihu.com/question/2029989062296039823",
+          "source": "知乎",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "李强主持国务院第十九次专题学习",
-          "url": "https://www.cls.cn/detail/2349687",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 08时05分]"
+        },
         {
           "title": "山东一法院干警配偶刚成立公司拍得银行六千万债权引质疑，多方回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33017388",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时42分 ~ 22时17分]"
+          "time_info": "[08时04分 ~ 08时05分]"
         }
       ]
     }
