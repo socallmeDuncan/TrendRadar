@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T08:11:49.780172+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-23T19:42:33.437275+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中共中央办公厅 国务院办公厅印发《碳达峰碳中和综合评价考核办法》",
+          "url": "https://www.cls.cn/detail/2353653",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "证监会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "受贿数额特别巨大，证监会原党委委员王会民被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032535",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         }
       ]
     }
