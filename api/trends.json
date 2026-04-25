@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T20:04:56.726068+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-04-25T21:46:24.861478+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时04分]"
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 21时46分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -70,11 +70,12 @@
           "url": "https://www.toutiao.com/trending/7632618603930091566/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时04分]"
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 21时46分]"
         }
       ]
     },
