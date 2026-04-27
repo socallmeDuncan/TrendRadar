@@ -1,81 +1,39 @@
 {
-  "generated_at": "2026-04-26T21:49:05.572191+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-04-27T08:08:09.485827+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "青岛海牛4:1山东泰山",
           "url": "https://www.douyin.com/hot/2479963",
           "source": "抖音",
           "ranks": [
-            4
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时48分 ~ 21时49分]"
-        },
-        {
-          "title": "“豆包提前查到2026山东事业编成绩”？最新回应",
-          "url": "https://www.cls.cn/detail/2355714",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 21时49分]"
+          "time_info": "[08时07分 ~ 08时08分]"
         }
       ]
     },
     {
       "keyword_group": "国务院",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "中共中央办公厅 国务院办公厅关于加强新就业群体服务管理的意见",
           "url": "https://www.cls.cn/detail/2355968",
           "source": "财联社热门",
           "ranks": [
-            13
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时48分 ~ 21时49分]"
-        },
-        {
-          "title": "中共中央办公厅、国务院办公厅发布关于加强新就业群体服务管理的意见",
-          "url": "https://flash.jin10.com/detail/20260426171110404800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
-          "url": "https://www.cls.cn/detail/2355600",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 19时23分]"
+          "time_info": "[08时07分 ~ 08时08分]"
         }
       ]
     }
