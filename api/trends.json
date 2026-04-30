@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-04-29T22:40:33.535366+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-04-30T09:17:48.549769+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国务院：任命刘浩凌为证监会副主席",
-          "url": "https://www.cls.cn/detail/2359509",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 22时40分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
