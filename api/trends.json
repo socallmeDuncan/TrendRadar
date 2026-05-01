@@ -1,94 +1,50 @@
 {
-  "generated_at": "2026-04-30T22:36:34.933256+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-05-01T09:22:51.541497+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "证监会原主席易会满被双开",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E4%B8%BB%E5%B8%AD%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%8F%8C%E5%BC%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 22时36分]"
-        },
         {
           "title": "涉嫌信披违法违规，科蓝软件、S佳通被证监会立案",
           "url": "https://www.cls.cn/detail/2361424",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "科蓝软件：因涉嫌信息披露违法违规，证监会决定对公司立案",
-          "url": "https://wallstreetcn.com/livenews/3097483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "09时22分"
         },
         {
           "title": "证监会原主席易会满被双开",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E4%B8%BB%E5%B8%AD%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%8F%8C%E5%BC%80%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E4%B8%BB%E5%B8%AD%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%8F%8C%E5%BC%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "证监会原主席易会满被双开",
-          "url": "https://www.douyin.com/hot/2484667",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 22时36分]"
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "国务院",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "国务院挂牌督办云南客车侧翻事故",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E%E4%BA%91%E5%8D%97%E5%AE%A2%E8%BD%A6%E4%BE%A7%E7%BF%BB%E4%BA%8B%E6%95%85",
-          "source": "bilibili 热搜",
+          "title": "国务院安委办对云南红河元阳县“4·30”客车侧翻事故查处挂牌督办",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085551",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "【何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话】4月30日晚，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔举行视频通话，双方围绕落实好中美两国元首釜山会晤和历次通话重要共识，就进一步妥善解决彼此关注的经贸问题和拓展务实合作，进行了坦诚、深入、建设性的交流。中方就近期美对华经贸限制措施表达严正关切。双方同意继续发挥好中美经贸磋商机制作用，不断增进共识、管控分歧、加强合作，推动中美经贸关系健康、稳定、可持续发展。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3097564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
+          "time_info": "09时22分"
         }
       ]
     }
