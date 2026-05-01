@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T09:22:51.541497+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-01T19:41:06.991436+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,37 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 19时41分]"
         },
         {
           "title": "证监会原主席易会满被双开",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E4%B8%BB%E5%B8%AD%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%8F%8C%E5%BC%80",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 19时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "CBA季后赛辽宁vs山东",
+          "url": "https://www.douyin.com/hot/2485507",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
         }
       ]
     },
@@ -43,8 +61,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 19时41分]"
         }
       ]
     }
