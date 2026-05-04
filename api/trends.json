@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T21:56:18.583083+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-05-04T08:13:13.338343+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "山东舰辽宁舰双航母编队强硬回击",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%88%B0%E8%BE%BD%E5%AE%81%E8%88%B0%E5%8F%8C%E8%88%AA%E6%AF%8D%E7%BC%96%E9%98%9F%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%87%BB",
-          "source": "百度热搜",
+          "title": "CBA辽宁不敌山东无缘季后赛8强",
+          "url": "https://www.douyin.com/hot/2487954",
+          "source": "抖音",
           "ranks": [
-            1
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时08分]"
+          "time_info": "[08时12分 ~ 08时13分]"
         }
       ]
     }
