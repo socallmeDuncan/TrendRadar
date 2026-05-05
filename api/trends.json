@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-04T22:40:18.727442+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-05-05T09:13:27.338039+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "CBA辽宁不敌山东无缘季后赛8强",
-          "url": "https://www.douyin.com/hot/2487954",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
