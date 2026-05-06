@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-06T09:12:41.861516+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-06T20:17:30.419753+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国务院",
       "match_count": 3,
       "titles": [
+        {
+          "title": "国务院将成立浏阳烟花事故调查组",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%B0%86%E6%88%90%E7%AB%8B%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 20时17分]"
+        },
         {
           "title": "国务院副总理张国清赶赴湖南浏阳",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%89%AF%E6%80%BB%E7%90%86%E5%BC%A0%E5%9B%BD%E6%B8%85%E8%B5%B6%E8%B5%B4%E6%B9%96%E5%8D%97%E6%B5%8F%E9%98%B3",
@@ -22,17 +34,6 @@
           "title": "国务院副总理张国清赶赴湖南浏阳",
           "url": "https://www.toutiao.com/trending/7636365134713323556/",
           "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "国务院将成立浏阳烟花事故调查组",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%B0%86%E6%88%90%E7%AB%8B%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84",
-          "source": "bilibili 热搜",
           "ranks": [
             16
           ],
