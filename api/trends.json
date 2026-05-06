@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T19:50:14.241882+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-05-06T09:12:41.861516+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,37 +8,54 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "浏阳爆炸事故将成立国务院调查组",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%8F%E9%98%B3%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%B0%86%E6%88%90%E7%AB%8B%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%B0%83%E6%9F%A5%E7%BB%84",
+          "title": "国务院副总理张国清赶赴湖南浏阳",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%89%AF%E6%80%BB%E7%90%86%E5%BC%A0%E5%9B%BD%E6%B8%85%E8%B5%B6%E8%B5%B4%E6%B9%96%E5%8D%97%E6%B5%8F%E9%98%B3",
           "source": "百度热搜",
           "ranks": [
-            21
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 19时50分]"
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
-          "title": "针对浏阳烟花厂爆炸事故 将成立国务院事故调查组",
-          "url": "https://wallstreetcn.com/livenews/3098773",
-          "source": "华尔街见闻-快讯",
+          "title": "国务院副总理张国清赶赴湖南浏阳",
+          "url": "https://www.toutiao.com/trending/7636365134713323556/",
+          "source": "今日头条",
           "ranks": [
-            9
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "09时12分"
         },
         {
-          "title": "针对浏阳烟花厂爆炸事故，将成立国务院事故调查组",
-          "url": "https://flash.jin10.com/detail/20260505190619771800",
-          "source": "金十数据",
+          "title": "国务院将成立浏阳烟花事故调查组",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%B0%86%E6%88%90%E7%AB%8B%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            30
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "09时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中超山东泰山4:1上海申花",
+          "url": "https://www.douyin.com/hot/2489594",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         }
       ]
     }
