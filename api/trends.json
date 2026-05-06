@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T20:17:30.419753+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-05-06T23:14:08.991694+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 20时17分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 23时14分]"
         },
         {
           "title": "国务院副总理张国清赶赴湖南浏阳",
