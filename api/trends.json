@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-11T09:25:20.201941+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-11T21:26:03.014282+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "一波金融精英“上岸”证监会！公示名单有看点",
+          "url": "https://www.cls.cn/detail/2368096",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
           "url": "https://www.cls.cn/detail/2367192",
