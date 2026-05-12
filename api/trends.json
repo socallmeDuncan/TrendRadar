@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-05-11T21:26:03.014282+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-05-12T09:17:40.795391+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "一波金融精英“上岸”证监会！公示名单有看点",
-          "url": "https://www.cls.cn/detail/2368096",
+          "title": "西班牙证监会：前巴萨巨星因参与证券内幕交易被罚",
+          "url": "https://www.cls.cn/detail/2368445",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 21时26分]"
-        },
-        {
-          "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
-          "url": "https://www.cls.cn/detail/2367192",
-          "source": "财联社热门",
-          "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "09时17分"
         }
       ]
     }
