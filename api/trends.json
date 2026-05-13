@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T09:25:20.968667+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-13T20:52:02.246111+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "山东菏泽一地曝大量农田遭污染，官方通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33165709",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 20时52分]"
+        },
+        {
           "title": "「耿同学」红了后，有人嘲笑同济南开中山的造假水平太低，但又有人说有些造假永远不可能被发现，你相信吗？",
           "url": "https://www.zhihu.com/question/2036824621920539855",
           "source": "知乎",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "山东菏泽一地曝大量农田遭污染，官方通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33165709",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
