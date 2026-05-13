@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T23:33:23.655471+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-05-13T09:25:20.968667+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,60 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "山东一地曝大量农田遭污染 官方通报",
-          "url": "https://www.toutiao.com/trending/7638808766724751402/",
-          "source": "今日头条",
+          "title": "「耿同学」红了后，有人嘲笑同济南开中山的造假水平太低，但又有人说有些造假永远不可能被发现，你相信吗？",
+          "url": "https://www.zhihu.com/question/2036824621920539855",
+          "source": "知乎",
           "ranks": [
-            4
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时33分"
+          "time_info": "09时25分"
         },
         {
-          "title": "山东一地被曝大片农田遭污水覆盖",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%9C%B0%E8%A2%AB%E6%9B%9D%E5%A4%A7%E7%89%87%E5%86%9C%E7%94%B0%E9%81%AD%E6%B1%A1%E6%B0%B4%E8%A6%86%E7%9B%96%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "山东菏泽一地曝大量农田遭污染，官方通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33165709",
+          "source": "澎湃新闻",
           "ranks": [
-            18
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国务院国资委：推动中央企业产业体系整体跃升，一体推进传统产业转型升级和新兴支柱产业培育",
-          "url": "https://wallstreetcn.com/livenews/3102250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "西班牙证监会：前巴萨巨星因参与证券内幕交易被罚",
-          "url": "https://www.cls.cn/detail/2368445",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "09时25分"
         }
       ]
     }
