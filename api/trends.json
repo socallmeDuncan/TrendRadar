@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-18T09:29:57.457005+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-18T22:07:20.532352+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "济南大爷嫌山姆办卡才能进",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354377&amp;topic_name=%E6%B5%8E%E5%8D%97%E5%A4%A7%E7%88%B7%E5%AB%8C%E5%B1%B1%E5%A7%86%E5%8A%9E%E5%8D%A1%E6%89%8D%E8%83%BD%E8%BF%9B",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
         {
           "title": "男子拒绝广州调岗山东被炒获赔50万",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%92%E7%BB%9D%E5%B9%BF%E5%B7%9E%E8%B0%83%E5%B2%97%E5%B1%B1%E4%B8%9C%E8%A2%AB%E7%82%92%E8%8E%B7%E8%B5%9450%E4%B8%87%23&t=31&band_rank=13&Refer=top",
@@ -33,7 +44,7 @@
     },
     {
       "keyword_group": "证监会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周末要闻汇总：中美经贸磋商初步成果公布；巨力索具涉嫌信息披露误导性陈述违法违规被证监会立案",
@@ -45,6 +56,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "中国证监会：四家公募基金申报REITs指数证券投资基金",
+          "url": "https://wallstreetcn.com/livenews/3105455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         }
       ]
     }
