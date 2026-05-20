@@ -1,46 +1,22 @@
 {
-  "generated_at": "2026-05-19T21:43:16.050964+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-05-20T09:42:37.351270+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "山东一公司多人被控以拖车要挟清收贷款，明日将第三次开庭",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33194564",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 21时43分]"
-        },
         {
           "title": "济南大爷嫌山姆办卡才能进",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354377&amp;topic_name=%E6%B5%8E%E5%8D%97%E5%A4%A7%E7%88%B7%E5%AB%8C%E5%B1%B1%E5%A7%86%E5%8A%9E%E5%8D%A1%E6%89%8D%E8%83%BD%E8%BF%9B",
           "source": "贴吧",
           "ranks": [
-            12,
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 21时43分]"
-        },
-        {
-          "title": "山东一广场三只狗雕塑被质疑低俗",
-          "url": "https://www.toutiao.com/trending/7641231015264239670/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
+          "appearance_count": 1,
+          "time_info": "09时42分"
         }
       ]
     }
