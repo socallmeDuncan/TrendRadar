@@ -1,25 +1,8 @@
 {
-  "generated_at": "2026-05-20T21:21:16.985476+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-05-21T09:32:58.632495+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "济南大爷嫌山姆办卡才能进",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354377&amp;topic_name=%E6%B5%8E%E5%8D%97%E5%A4%A7%E7%88%B7%E5%AB%8C%E5%B1%B1%E5%A7%86%E5%8A%9E%E5%8D%A1%E6%89%8D%E8%83%BD%E8%BF%9B",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        }
-      ]
-    },
     {
       "keyword_group": "发改委",
       "match_count": 1,
@@ -29,28 +12,11 @@
           "url": "https://www.baidu.com/s?wd=520%E5%BD%93%E5%A4%A9+%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E5%B9%B2%E4%BA%86%E4%B8%A4%E4%BB%B6%E5%A4%A7%E4%BA%8B",
           "source": "百度热搜",
           "ranks": [
-            22
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李强签署国务院令 公布《中华人民共和国矿产资源法实施条例》",
-          "url": "https://www.cls.cn/detail/2376790",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "appearance_count": 1,
+          "time_info": "09时32分"
         }
       ]
     }
