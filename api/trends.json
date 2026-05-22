@@ -1,56 +1,44 @@
 {
-  "generated_at": "2026-05-21T21:46:55.341440+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-05-22T09:34:03.619316+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "济南回应教师管教困境：学校需承担责任，不能简单“牺牲教师换和谐”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205660",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时33分 ~ 09时34分]"
+        },
+        {
+          "title": "山姆会员店在济南、青岛同开，将如何影响山东消费升级？",
+          "url": "https://www.zhihu.com/question/2039644511459127466",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时33分 ~ 09时34分]"
+        },
         {
           "title": "济南青岛山姆熟食饮料疑遭偷吃",
           "url": "https://www.douyin.com/hot/2507437",
           "source": "抖音",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "520当天 国家发改委干了两件大事",
-          "url": "https://www.baidu.com/s?wd=520%E5%BD%93%E5%A4%A9+%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E5%B9%B2%E4%BA%86%E4%B8%A4%E4%BB%B6%E5%A4%A7%E4%BA%8B",
-          "source": "百度热搜",
-          "ranks": [
-            23
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国国务院：过去21天内曾在刚果民主共和国、乌干达或南苏丹的美国公民，必须通过华盛顿杜勒斯机场入境美国。",
-          "url": "https://flash.jin10.com/detail/20260521210115853800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
+          "appearance_count": 2,
+          "time_info": "[09时33分 ~ 09时34分]"
         }
       ]
     }
