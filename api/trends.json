@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T20:40:28.983675+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-05-23T09:25:15.492119+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 8,
+      "match_count": 7,
       "titles": [
         {
           "title": "证监会等八部门：全面取缔境外证券期货基金非法跨境经营活动，设置两年集中整治期",
@@ -14,143 +14,103 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
-          "title": "整治非法跨境证券期货基金经营活动，证监会等八部门联合出手",
-          "url": "https://www.cls.cn/detail/2379069",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "证监会拟严厉处罚老虎、富途、长桥",
-          "url": "https://www.toutiao.com/trending/7642627830886973503/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "证监会拟对老虎、富途、长桥依法严厉处罚",
-          "url": "https://www.cls.cn/detail/2379080",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "证监会拟对老虎富途长桥严厉处罚",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8B%9F%E5%AF%B9%E8%80%81%E8%99%8E%E5%AF%8C%E9%80%94%E9%95%BF%E6%A1%A5%E4%B8%A5%E5%8E%89%E5%A4%84%E7%BD%9A",
-          "source": "bilibili 热搜",
+          "title": "中国证监会拟对富途合计罚款18.5亿元人民币，老虎证券合计被罚没约4.1亿元",
+          "url": "https://wallstreetcn.com/articles/3772942",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "证监会拟对老虎富途长桥严厉处罚",
-          "url": "https://www.douyin.com/hot/2508493",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
           "title": "证监会：拟对老虎、富途、长桥依法严厉处罚",
           "url": "https://wallstreetcn.com/articles/3772919",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
-          "title": "证监会拟严厉处罚老虎、富途、长桥",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8B%9F%E4%B8%A5%E5%8E%89%E5%A4%84%E7%BD%9A%E8%80%81%E8%99%8E%E3%80%81%E5%AF%8C%E9%80%94%E3%80%81%E9%95%BF%E6%A1%A5",
-          "source": "百度热搜",
+          "title": "【早报】8部门出手，整治非法跨境证券期货基金经营活动；证监会拟对老虎、富途、长桥依法严厉处罚",
+          "url": "https://www.cls.cn/detail/2379666",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "济南回应教师管教困境：学校需承担责任，不能简单“牺牲教师换和谐”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205660",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            1
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时33分 ~ 20时40分]"
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
-          "title": "山姆会员店在济南、青岛同开，将如何影响山东消费升级？",
-          "url": "https://www.zhihu.com/question/2039644511459127466",
-          "source": "知乎",
+          "title": "证监会拟对老虎富途长桥严厉处罚",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8B%9F%E5%AF%B9%E8%80%81%E8%99%8E%E5%AF%8C%E9%80%94%E9%95%BF%E6%A1%A5%E4%B8%A5%E5%8E%89%E5%A4%84%E7%BD%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            16
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时33分 ~ 09时34分]"
+          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
-          "title": "济南青岛山姆熟食饮料疑遭偷吃",
-          "url": "https://www.douyin.com/hot/2507437",
+          "title": "证监会拟对老虎富途长桥严厉处罚",
+          "url": "https://www.douyin.com/hot/2508493",
           "source": "抖音",
           "ranks": [
-            19
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时33分 ~ 09时34分]"
+          "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
+          "title": "非法跨境展业遭重拳整治：中国证监会拟对富途罚款18.5亿，老虎证券罚没4.112亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33213504",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         }
       ]
     },
     {
       "keyword_group": "国务院",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "国务院印发意见：促进未落户常住人口与户籍人口同等享有基本公共服务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33211540",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
+        },
         {
           "title": "国务院印发《关于推行常住地提供基本公共服务的实施意见》",
           "url": "https://www.cls.cn/detail/2379130",
           "source": "财联社热门",
           "ranks": [
-            5
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         }
       ]
     }
