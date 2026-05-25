@@ -1,62 +1,22 @@
 {
-  "generated_at": "2026-05-24T22:10:15.790265+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-05-25T09:34:00.744864+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "国务院",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国务院推行常住地提供基本公共服务",
-          "url": "https://www.douyin.com/hot/2509808",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "针对山西留神峪煤矿事故，国务院事故调查组将较真碰硬开展事故调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33220161",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "国务院调查组将就煤矿事故开展调查",
-          "url": "https://www.douyin.com/hot/2509726",
-          "source": "抖音",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 22时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "证监会",
+      "keyword_group": "山东 济南",
       "match_count": 1,
       "titles": [
         {
-          "title": "【早报】8部门出手，整治非法跨境证券期货基金经营活动；证监会拟对老虎、富途、长桥依法严厉处罚",
-          "url": "https://www.cls.cn/detail/2379666",
-          "source": "财联社热门",
+          "title": "山东泰山3:3武汉三镇",
+          "url": "https://www.douyin.com/hot/2510973",
+          "source": "抖音",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 19时51分]"
+          "time_info": "[09时33分 ~ 09时34分]"
         }
       ]
     }
