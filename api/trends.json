@@ -1,12 +1,64 @@
 {
-  "generated_at": "2026-05-30T19:55:59.052829+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-05-30T22:16:31.939023+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
+      "keyword_group": "国务院",
+      "match_count": 3,
       "titles": [
+        {
+          "title": "国务院正式批复同意，粤港澳游艇自由行要来了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33270983",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "国务院国资委主任张玉卓履新工程院党组书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33267107",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 22时16分]"
+        },
+        {
+          "title": "据新华社报道，中共中央政治局常委、国务院总理李强日前对做好安全生产工作作出重要批示。",
+          "url": "https://wallstreetcn.com/livenews/3111817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中超山东泰山0:1成都蓉城",
+          "url": "https://www.douyin.com/hot/2517691",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
         {
           "title": "中超山东泰山vs成都蓉城",
           "url": "https://www.douyin.com/hot/2517691",
@@ -14,27 +66,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国务院国资委主任张玉卓履新工程院党组书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33267107",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 19时55分]"
         }
       ]
     }
