@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-05-31T22:20:34.288490+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-06-01T09:42:02.454000+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "国务院",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国务院正式批复同意，粤港澳游艇自由行要来了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33270983",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "国务院留神峪煤矿事故调查组公告",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84%E5%85%AC%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
