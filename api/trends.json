@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-02T22:39:19.858607+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-06-03T10:10:46.362861+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "国务院",
+      "keyword_group": "山东 济南",
       "match_count": 1,
       "titles": [
         {
-          "title": "国务院印发《加快农业农村现代化“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2388434",
-          "source": "财联社热门",
+          "title": "山东“麦客”千里赶农时一天收麦200亩",
+          "url": "https://www.toutiao.com/trending/7646581144054235190/",
+          "source": "今日头条",
           "ranks": [
-            3
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时39分"
+          "time_info": "10时10分"
         }
       ]
     }
