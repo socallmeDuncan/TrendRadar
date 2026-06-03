@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-03T10:10:46.362861+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-03T23:20:15.164564+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "山东高考录取批次与志愿填报迎调整",
+          "url": "https://www.toutiao.com/trending/7646551032469864457/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时20分]"
+        },
         {
           "title": "山东“麦客”千里赶农时一天收麦200亩",
           "url": "https://www.toutiao.com/trending/7646581144054235190/",
