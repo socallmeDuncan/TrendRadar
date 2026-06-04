@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-06-03T23:20:15.164564+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-06-04T10:07:55.288278+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "山东高考录取批次与志愿填报迎调整",
-          "url": "https://www.toutiao.com/trending/7646551032469864457/",
-          "source": "今日头条",
+          "title": "A股油气板块震荡下挫，科力股份跌超10%，通源石油、山东墨龙、迪威尔、潜能恒信、中曼石油等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260604095127905800",
+          "source": "金十数据",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时19分 ~ 23时20分]"
-        },
-        {
-          "title": "山东“麦客”千里赶农时一天收麦200亩",
-          "url": "https://www.toutiao.com/trending/7646581144054235190/",
-          "source": "今日头条",
-          "ranks": [
-            17
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时10分"
+          "time_info": "10时07分"
         }
       ]
     }
