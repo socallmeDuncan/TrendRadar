@@ -1,62 +1,22 @@
 {
-  "generated_at": "2026-06-06T22:18:42.083687+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-06-07T09:38:58.907299+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "网售“鲜驴肉”却检出马源性成分，山东滕州一食品公司被罚",
           "url": "https://m.thepaper.cn/newsDetail_forward_33323821",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 22时18分]"
-        },
-        {
-          "title": "暴雨蓝色预警发布，山东河南等11省区市有大到暴雨",
-          "url": "https://wallstreetcn.com/livenews/3115380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国务院食安办成立工作组督导查处“望奎双汇猪肉抗生素超标问题”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33316411",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "全面加强监管！国务院办公厅：建立私募基金风险集中监测平台，严控新设政府投资基金",
-          "url": "https://wallstreetcn.com/articles/3773965",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "09时38分"
         }
       ]
     }
