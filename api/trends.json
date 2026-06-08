@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-06-08T09:42:29.640043+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-08T22:36:52.420177+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "发改委",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "陕西发改委：督促煤炭企业在安全前提下依法合规释放先进产能 做到应产尽产、稳产增产",
+          "url": "https://wallstreetcn.com/livenews/3116212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国国务院：美国对100多名尼加拉瓜官员及其家属实施额外签证限制。",
+          "url": "https://flash.jin10.com/detail/20260608215427917800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
