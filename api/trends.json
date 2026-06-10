@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T21:25:48.195615+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-06-10T09:38:18.505765+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
@@ -8,32 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "王一楠陪爸爸回山东老家探亲",
-          "url": "https://www.douyin.com/hot/2528368",
-          "source": "抖音",
+          "title": "港股油气设服板块局部走强，百勤油服(02178.HK)涨超14%，山东墨龙(00568.HK)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260610092933144800",
+          "source": "金十数据",
           "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国务院国资委原副部长级干部潘良被开除党籍：作风败坏，大肆敛财",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333692",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
+          "appearance_count": 1,
+          "time_info": "09时38分"
         }
       ]
     }
