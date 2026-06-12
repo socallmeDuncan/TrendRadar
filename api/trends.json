@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-06-11T22:24:44.920297+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-06-12T09:59:42.524505+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股油气设服板块走强，山东墨龙(00568.HK)涨超16%，百勤油服(02178.HK)涨超9%，中石化油服(01033.HK)、达力普控股(01921.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260611093446890800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "发改委",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
-          "url": "https://www.cls.cn/detail/2396287",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
