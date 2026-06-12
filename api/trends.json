@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-06-12T09:59:42.524505+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-12T21:48:07.197099+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "证监会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "证监会同意长鑫科技IPO申请",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%81%E7%9B%91%E4%BC%9A%E5%90%8C%E6%84%8F%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80IPO%E7%94%B3%E8%AF%B7%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 21时48分]"
+        },
+        {
+          "title": "立讯精密：发行H股获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3118923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
