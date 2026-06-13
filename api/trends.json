@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-13T20:10:27.464147+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-06-13T22:40:42.041064+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "外籍小女孩在济南机场哭闹不肯走",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%B5%8E%E5%8D%97%E6%9C%BA%E5%9C%BA%E5%93%AD%E9%97%B9%E4%B8%8D%E8%82%AF%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
