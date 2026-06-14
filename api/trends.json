@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T20:25:32.793917+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-06-14T22:56:27.186214+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "外籍小女孩在济南机场哭闹不肯走",
@@ -19,6 +19,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "山东医药大学通报男子称学位证失效，学位证系非正当获取，2 人被处理，如何评价校方通报？哪些问题值得深思？",
+          "url": "https://www.zhihu.com/question/2048884098957931703",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "山东聊城一化工企业工厂突发火灾",
           "url": "https://www.toutiao.com/trending/7650817142065594378/",
           "source": "今日头条",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "山东阳谷一化工企业石蜡料场起火致3人受伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376095",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "外籍小女孩在济南机场哭闹不肯走",
