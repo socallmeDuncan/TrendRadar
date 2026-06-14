@@ -1,22 +1,44 @@
 {
-  "generated_at": "2026-06-13T22:40:42.041064+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-06-14T09:57:33.711635+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "外籍小女孩在济南机场哭闹不肯走",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%B5%8E%E5%8D%97%E6%9C%BA%E5%9C%BA%E5%93%AD%E9%97%B9%E4%B8%8D%E8%82%AF%E8%B5%B0",
           "source": "百度热搜",
           "ranks": [
-            5
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时40分"
+          "time_info": "09时57分"
+        },
+        {
+          "title": "山东聊城一化工企业工厂突发火灾",
+          "url": "https://www.toutiao.com/trending/7650817142065594378/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "外籍小女孩在济南机场哭闹不肯走",
+          "url": "https://www.toutiao.com/trending/7650827168875839530/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     }
