@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-18T21:49:26.161597+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-06-19T10:20:31.119644+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "国务院",
+      "keyword_group": "山东 济南",
       "match_count": 1,
       "titles": [
         {
-          "title": "国务院任免国家工作人员：蔡奇兼任国家行政学院院长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33409491",
-          "source": "澎湃新闻",
+          "title": "山东一男子上夜班关闭空调和门窗，高烧至 41°C 患热射病，抢救无效去世，为啥这么严重？热射病如何预防？",
+          "url": "https://www.zhihu.com/question/2047329194447745310",
+          "source": "知乎",
           "ranks": [
-            19
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时49分"
+          "time_info": "10时20分"
         }
       ]
     }
