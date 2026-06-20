@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T21:55:38.119346+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-06-20T09:37:31.181339+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -8,16 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "山东一男子上夜班关闭空调和门窗，高烧至 41°C 患热射病，抢救无效去世，为啥这么严重？热射病如何预防？",
-          "url": "https://www.zhihu.com/question/2047329194447745310",
+          "title": "网传婴儿体内甲酰胺与纸尿裤有关，山东公共卫生临床中心回应「专家未曾指认二者存在关联」，具体怎么回事？",
+          "url": "https://www.zhihu.com/question/2051337399167185693",
           "source": "知乎",
           "ranks": [
-            12,
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时20分 ~ 21时55分]"
+          "appearance_count": 1,
+          "time_info": "09时37分"
         }
       ]
     }
