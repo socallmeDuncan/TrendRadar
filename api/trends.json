@@ -1,48 +1,7 @@
 {
-  "generated_at": "2026-06-20T22:54:22.045629+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-06-21T10:02:03.354466+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "济南一小区配套小学被租给民办高中，区教体局：为盘活国有资产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33417039",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时15分 ~ 22时54分]"
-        },
-        {
-          "title": "网传婴儿体内甲酰胺与纸尿裤有关，山东公共卫生临床中心回应「专家未曾指认二者存在关联」，具体怎么回事？",
-          "url": "https://www.zhihu.com/question/2051337399167185693",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "足协杯山东泰山5:0广西恒宸",
-          "url": "https://www.douyin.com/hot/2541446",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
