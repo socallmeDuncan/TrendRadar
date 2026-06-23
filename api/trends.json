@@ -1,75 +1,7 @@
 {
-  "generated_at": "2026-06-22T23:36:51.093460+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-06-23T09:33:20.536722+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "国务院",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国国务院发言人：美国国务卿鲁比奥将在海湾之行期间讨论伊朗谅解备忘录及霍尔木兹海峡问题。",
-          "url": "https://flash.jin10.com/detail/20260622230323119800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "美国国务院发言人：美国国务卿鲁比奥将出席在巴林举行的海湾合作委员会会议。",
-          "url": "https://flash.jin10.com/detail/20260622230306396800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "美国国务院发言人：美国国务卿鲁比奥将于6月23日至25日访问阿联酋、科威特和巴林。",
-          "url": "https://flash.jin10.com/detail/20260622230236618800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "山东万福河被指遭污染，当地环境局：已到现场调查，将发通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33423210",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "山东万福河遭污染续：系食品加工污水外溢，已制定治理方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33424083",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
