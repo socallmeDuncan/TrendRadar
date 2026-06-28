@@ -1,55 +1,33 @@
 {
-  "generated_at": "2026-06-27T22:16:10.404709+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-06-28T09:36:17.971345+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "山东一动物园将小狗染成「熊猫犬」展出，园方回应染色剂合规且无风险，真的对动物无害吗？为啥用狗扮演熊猫？",
+          "url": "https://www.zhihu.com/question/2053123761063436729",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 09时36分]"
+        },
         {
           "title": "济南RW侠战胜成都AG超玩会 KPL",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%90%E9%83%BDAG%E8%B6%85%E7%8E%A9%E4%BC%9A%20%E6%B5%8E%E5%8D%97RW%E4%BE%A0",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
-        },
-        {
-          "title": "济南RW侠2比0领先AG",
-          "url": "https://s.weibo.com/weibo?q=%E6%B5%8E%E5%8D%97RW%E4%BE%A02%E6%AF%940%E9%A2%86%E5%85%88AG&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
-        },
-        {
-          "title": "山东曲阜一牌坊构件脱落致1死6伤",
-          "url": "https://www.toutiao.com/trending/7655947617947533318/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "山东曲阜尼山镇一牌坊倒塌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%9B%B2%E9%98%9C%E5%B0%BC%E5%B1%B1%E9%95%87%E4%B8%80%E7%89%8C%E5%9D%8A%E5%80%92%E5%A1%8C%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
+          "time_info": "[09时35分 ~ 09时36分]"
         }
       ]
     }
