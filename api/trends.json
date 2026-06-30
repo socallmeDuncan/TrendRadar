@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-30T09:32:55.482997+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-30T20:32:59.690478+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国务院",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "国务院：探索延长义务教育年限",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%EF%BC%9A%E6%8E%A2%E7%B4%A2%E5%BB%B6%E9%95%BF%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%B9%B4%E9%99%90",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
         {
           "title": "国务院印发《教育发展“十五五”规划》",
           "url": "https://www.cls.cn/detail/2411815",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "70后程福波任国务院国资委党委书记",
+          "url": "https://www.toutiao.com/trending/7657141070999850537/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     }
