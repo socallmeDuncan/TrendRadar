@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-03T20:28:44.966801+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-07-03T22:56:02.835763+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "证监会就完善上市公司再融资规则公开征求意见",
+          "url": "https://www.cls.cn/detail/2416797",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
         {
           "title": "证监会：完善锁价定增制度，强化可转债监管要求",
           "url": "https://wallstreetcn.com/livenews/3128691",
@@ -14,7 +25,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         }
@@ -51,22 +62,24 @@
           "url": "https://www.zhihu.com/question/2056094088609390914",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 22时56分]"
         },
         {
           "title": "国家发改委印发《循环经济发展“十五五”规划》",
           "url": "https://www.cls.cn/detail/2416403",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 22时56分]"
         }
       ]
     },
@@ -98,7 +111,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         }
