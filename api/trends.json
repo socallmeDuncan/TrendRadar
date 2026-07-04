@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-03T22:56:02.835763+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-07-04T09:10:25.521839+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
+          "url": "https://www.cls.cn/detail/2417029",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
         {
           "title": "证监会就完善上市公司再融资规则公开征求意见",
           "url": "https://www.cls.cn/detail/2416797",
@@ -15,105 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 22时56分]"
-        },
-        {
-          "title": "证监会：完善锁价定增制度，强化可转债监管要求",
-          "url": "https://wallstreetcn.com/livenews/3128691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "中国证监会就完善上市公司再融资规则公开征求意见",
-          "url": "https://wallstreetcn.com/livenews/3128687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "通富微电：向特定对象发行股票获证监会同意注册批复。",
-          "url": "https://wallstreetcn.com/livenews/3128658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "发改委",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国家发改委价格监测中心副主任刘刚带队赴小米集团开展工作调研，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2056094088609390914",
-          "source": "知乎",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 22时56分]"
-        },
-        {
-          "title": "国家发改委印发《循环经济发展“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2416403",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 22时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "济南RW侠战胜深圳DYG",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3DYG%20%E6%B5%8E%E5%8D%97RW%E4%BE%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国务院任免国家工作人员",
-          "url": "https://wallstreetcn.com/livenews/3128672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "09时10分"
         }
       ]
     }
