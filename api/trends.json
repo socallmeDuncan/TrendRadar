@@ -1,34 +1,39 @@
 {
-  "generated_at": "2026-07-04T22:11:15.667764+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-07-05T09:18:11.926472+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "山东 济南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么山东人那么爱喝羊汤？",
+          "url": "https://www.zhihu.com/question/479383138",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "证监会",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
           "url": "https://www.cls.cn/detail/2417029",
           "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 22时11分]"
-        },
-        {
-          "title": "证监会就完善上市公司再融资规则公开征求意见",
-          "url": "https://www.cls.cn/detail/2416797",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
         }
       ]
     }
