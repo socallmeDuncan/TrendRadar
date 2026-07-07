@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-07-06T22:09:50.042138+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-07-07T09:18:51.585486+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "重庆狼队战胜济南RW侠 KPL",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F%20%E6%B5%8E%E5%8D%97RW%E4%BE%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 22时09分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
