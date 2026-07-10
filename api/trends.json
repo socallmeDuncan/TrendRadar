@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-07-09T21:34:56.595061+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-07-10T09:13:23.048589+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "为什么山东人喜欢吃知了猴？",
-          "url": "https://www.zhihu.com/question/285950491",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "被塑造成“不正规、没出路”的劣质选择，山东多所技工学校发声反击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33540289",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
-          "title": "长沙TES.A战胜济南RW侠 KPL",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B5%8E%E5%8D%97RW%E4%BE%A0%20%E9%95%BF%E6%B2%99TES.A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
