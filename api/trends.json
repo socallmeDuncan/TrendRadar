@@ -1,64 +1,7 @@
 {
-  "generated_at": "2026-07-11T22:03:08.453508+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-07-12T09:07:25.303099+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "巴威直奔山东",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A8%81%E7%9B%B4%E5%A5%94%E5%B1%B1%E4%B8%9C%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "山东启动防汛防台风三级应急响应",
-          "url": "https://wallstreetcn.com/livenews/3132322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国务院原则同意《中医药振兴发展“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2422955",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "国务院安委会对福建泉州「7·9」重大火灾查处挂牌督办，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2059215563638018597",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
