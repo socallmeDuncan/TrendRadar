@@ -1,62 +1,22 @@
 {
-  "generated_at": "2026-07-12T22:08:01.863837+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-07-13T09:07:31.415284+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "山东 济南",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "台风巴威对山东发力了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%AF%B9%E5%B1%B1%E4%B8%9C%E5%8F%91%E5%8A%9B%E4%BA%86%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
-        },
-        {
-          "title": "重庆狼队战胜济南RW侠 KPL",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F%20%E6%B5%8E%E5%8D%97RW%E4%BE%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "重庆狼队 vs 济南RW侠 KPL",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F%20%E6%B5%8E%E5%8D%97RW%E4%BE%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "发改委",
       "match_count": 1,
       "titles": [
         {
-          "title": "国家发改委追加安排1亿元支持广西进一步做好台风灾害灾后应急恢复",
-          "url": "https://wallstreetcn.com/livenews/3132409",
-          "source": "华尔街见闻-快讯",
+          "title": "台风「巴威」深入内陆，江苏、山东、东北等地将有暴雨，这轮降雨会持续多久？你那里情况怎么样？",
+          "url": "https://www.zhihu.com/question/2059572234985763779",
+          "source": "知乎",
           "ranks": [
-            9,
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 22时08分]"
+          "appearance_count": 1,
+          "time_info": "09时07分"
         }
       ]
     }
