@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T08:53:30.838293+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-15T20:03:39.370576+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国务院发文：未来5年涨工资、落实假期",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%91%E6%96%87%EF%BC%9A%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%B6%A8%E5%B7%A5%E8%B5%84%E3%80%81%E8%90%BD%E5%AE%9E%E5%81%87%E6%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     }
