@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-07-16T22:36:24.473032+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-07-17T09:04:49.887101+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "山东一酒店起火 现场浓烟滚滚",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%85%92%E5%BA%97%E8%B5%B7%E7%81%AB+%E7%8E%B0%E5%9C%BA%E6%B5%93%E7%83%9F%E6%BB%9A%E6%BB%9A",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国国务院：禁止在过去21天内曾到访过刚果（金）的美国公民和国民通过商业航班入境美国。",
-          "url": "https://flash.jin10.com/detail/20260716082845129800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
