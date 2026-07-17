@@ -1,7 +1,81 @@
 {
-  "generated_at": "2026-07-17T09:04:49.887101+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-17T19:54:40.536315+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "证监会",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国证监会组织财务造假综合惩防跨部门培训",
+          "url": "https://flash.jin10.com/detail/20260717194353430800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "上交所：本周，对157起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对33起上市公司重大事项等进行专项核查，向证监会上报涉嫌违法违规案件线索5起。",
+          "url": "https://wallstreetcn.com/livenews/3135670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "中际旭创港股上市获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3135665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "发改委",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家发改委发布《人工智能合作发展行动计划》",
+          "url": "https://www.cls.cn/detail/2429332",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "涪陵电力：国网综能正在筹划将公司控股股东川东电力持有的公司全部股份划转至国网综能。本次股份划转完成后，川东电力不再持有公司股份，国网综能将直接持有公司41.65%股权并成为公司控股股东，国家电网有限公司仍为公司最终控股股东，公司实际控制人仍为国务院国资委，公司控制权不会发生变化。",
+          "url": "https://wallstreetcn.com/livenews/3135678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
