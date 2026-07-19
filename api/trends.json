@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-18T20:33:12.579217+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-07-19T09:04:20.212834+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "4人操纵股票，被证监会罚没6.27亿",
-          "url": "https://www.cls.cn/detail/2429796",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 20时33分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
