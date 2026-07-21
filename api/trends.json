@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T20:10:27.717939+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-07-21T22:36:38.830131+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "证监会",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "每一次证监会稳市场座谈会后，A股都发生了什么？",
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -56,22 +56,35 @@
           "url": "https://www.cls.cn/detail/2432934",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时36分]"
         },
         {
           "title": "证监会：将主动回应市场关切",
           "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%B0%86%E4%B8%BB%E5%8A%A8%E5%9B%9E%E5%BA%94%E5%B8%82%E5%9C%BA%E5%85%B3%E5%88%87",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时36分]"
+        },
+        {
+          "title": "事关A股市场 证监会最新发声",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3A%E8%82%A1%E5%B8%82%E5%9C%BA+%E8%AF%81%E7%9B%91%E4%BC%9A%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时10分"
+          "time_info": "22时36分"
         },
         {
           "title": "证监会召开系列座谈会听取意见建议",
@@ -80,9 +93,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "济南RW侠战胜SYG",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%8E%E5%8D%97RW%E4%BE%A0%20SYG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         }
       ]
     }
