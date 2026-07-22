@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-22T20:14:18.174560+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-07-22T22:37:12.933736+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国务院",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "国务院批复 超7万亿元大产业来了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%89%B9%E5%A4%8D+%E8%B6%857%E4%B8%87%E4%BA%BF%E5%85%83%E5%A4%A7%E4%BA%A7%E4%B8%9A%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
         {
           "title": "国务院国资委：深入实施“AI+”专项行动",
           "url": "https://wallstreetcn.com/livenews/3138207",
@@ -14,7 +25,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         }
