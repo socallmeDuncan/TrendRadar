@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-07-23T09:04:47.860688+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-23T20:12:08.316874+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "乒超联赛山东魏桥8:6山东鲁能",
+          "url": "https://www.douyin.com/hot/2582128",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 20时12分]"
+        },
+        {
+          "title": "笑不活,山东高中变奶龙乐园",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356422&amp;topic_name=%E7%AC%91%E4%B8%8D%E6%B4%BB%2C%E5%B1%B1%E4%B8%9C%E9%AB%98%E4%B8%AD%E5%8F%98%E5%A5%B6%E9%BE%99%E4%B9%90%E5%9B%AD",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 20时12分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
