@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T19:47:24.703006+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-07-25T22:12:41.652178+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
@@ -49,7 +49,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         }
@@ -64,11 +64,12 @@
           "url": "https://www.zhihu.com/question/2063655728540283084",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 22时12分]"
         },
         {
           "title": "山东建成首个“零碳机关”",
@@ -77,7 +78,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         }
