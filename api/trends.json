@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-07-26T19:46:42.041963+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-07-26T22:11:28.136133+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "济南突降暴雨",
+          "url": "https://www.toutiao.com/trending/7666737733616680966/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "山东一高中多名新生身高超1米85",
+          "url": "https://www.toutiao.com/trending/7665860465641340991/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "济南突降暴雨 积水深到大腿",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E7%AA%81%E9%99%8D%E6%9A%B4%E9%9B%A8+%E7%A7%AF%E6%B0%B4%E6%B7%B1%E5%88%B0%E5%A4%A7%E8%85%BF",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        }
+      ]
+    },
     {
       "keyword_group": "国务院",
       "match_count": 1,
