@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-28T08:59:26.355814+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-28T20:24:04.126067+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "山东 济南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "济南暴雨铁路桥下汽车被淹不实",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E6%9A%B4%E9%9B%A8%E9%93%81%E8%B7%AF%E6%A1%A5%E4%B8%8B%E6%B1%BD%E8%BD%A6%E8%A2%AB%E6%B7%B9%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
