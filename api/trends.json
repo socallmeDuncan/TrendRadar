@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-05T23:04:49.491761+08:00",
-  "total_titles_processed": 749,
+  "generated_at": "2026-08-06T08:56:57.476926+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "国务院",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国务院成立重庆山体崩塌调查评估组",
-          "url": "https://www.douyin.com/hot/2597381",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
