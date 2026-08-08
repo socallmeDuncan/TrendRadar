@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-08-08T21:29:14.524958+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-08-09T07:57:20.840431+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "山东郯城警方围剿两处电诈窝点",
-          "url": "https://www.toutiao.com/trending/7670535744310312970/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时57分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
