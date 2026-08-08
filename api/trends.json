@@ -1,72 +1,7 @@
 {
-  "generated_at": "2026-08-07T21:52:52.112542+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-08-08T08:02:08.558793+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "证监会",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "*ST实达：因公司2023年半年报涉嫌信息披露违法违规，中国证监会决定对公司立案。",
-          "url": "https://wallstreetcn.com/livenews/3146677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时12分]"
-        },
-        {
-          "title": "金信基金变更持股5%以上股东获证监会核准",
-          "url": "https://wallstreetcn.com/livenews/3146674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时12分]"
-        },
-        {
-          "title": "证监会核准长安基金变更主要股东、实际控制人",
-          "url": "https://wallstreetcn.com/livenews/3146670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时12分]"
-        },
-        {
-          "title": "自然人柳锡专内幕交易获利309万，被证监会没一罚三",
-          "url": "https://wallstreetcn.com/livenews/3146656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "自然人公茂江内幕交易获利60万，被证监会没一罚三",
-          "url": "https://wallstreetcn.com/livenews/3146647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
