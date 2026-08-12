@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T19:25:55.628365+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-08-12T20:26:42.564350+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,15 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "国务院原总理朱镕基逝世",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8E%9F%E6%80%BB%E7%90%86%E6%9C%B1%E9%95%95%E5%9F%BA%E9%80%9D%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
           "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
           "url": "https://m.thepaper.cn/newsDetail_forward_33769071",
           "source": "澎湃新闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时26分]"
         },
         {
           "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
@@ -36,29 +25,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时26分]"
         },
         {
           "title": "中共中央 全国人大常委会 国务院 全国政协讣告朱镕基同志逝世",
           "url": "https://wallstreetcn.com/articles/3779286",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时26分]"
         },
         {
           "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
           "url": "https://www.cls.cn/detail/2452533",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时26分]"
+        },
+        {
+          "title": "国务院原总理朱镕基逝世",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8E%9F%E6%80%BB%E7%90%86%E6%9C%B1%E9%95%95%E5%9F%BA%E9%80%9D%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -69,7 +71,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
@@ -84,11 +86,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%B5%8E%E5%8D%97RW%E4%BE%A0%20%E4%B8%8A%E6%B5%B7EDG.M",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时26分]"
         }
       ]
     },
@@ -103,7 +106,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
