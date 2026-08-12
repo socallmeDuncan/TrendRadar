@@ -1,76 +1,7 @@
 {
-  "generated_at": "2026-08-11T21:59:05.961705+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-08-12T08:09:40.108424+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "台风「白海豚」深入内陆，湖北宜昌进战时状态，河南、安徽、山东迎来特大暴雨，你那目前情况咋样？雨有多大？",
-          "url": "https://www.zhihu.com/question/2070409831639245816",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时12分]"
-        },
-        {
-          "title": "山东一中学让新生填家长职务和车价，校方称用于贫困补助甄别，学校该不该收集这类信息？你遇到过类似情况吗？",
-          "url": "https://www.zhihu.com/question/2069476448205812044",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "山东菏泽古沉船一件元青花杯被曝下落不明，举报者称其曾出现在央视画面中，却未移交给博物馆，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2069191321374418713",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据媒体援引美国国务院官员报道，黎巴嫩和以色列将于9月初在罗马举行下一轮会谈。",
-          "url": "https://wallstreetcn.com/livenews/3147740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "国务院免去罗文国家市监总局局长职务",
-          "url": "https://www.toutiao.com/trending/7672330009679577129/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
