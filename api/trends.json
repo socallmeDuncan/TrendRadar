@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-13T08:09:37.459134+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-13T19:23:40.484426+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国务院",
       "match_count": 4,
       "titles": [
+        {
+          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
+          "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 19时23分]"
+        },
         {
           "title": "中共中央 全国人大常委会 国务院 全国政协讣告朱镕基同志逝世",
           "url": "https://wallstreetcn.com/articles/3779286",
@@ -33,17 +44,6 @@
           "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
           "url": "https://www.cls.cn/detail/2452533",
           "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
-          "source": "知乎",
           "ranks": [
             1
           ],
