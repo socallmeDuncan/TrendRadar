@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-08-14T21:56:47.344798+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-08-15T07:52:00.004804+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "发改委",
-      "match_count": 1,
+      "keyword_group": "山东 济南",
+      "match_count": 2,
       "titles": [
         {
-          "title": "国家发改委紧急安排3000万元支持河南灾后应急恢复",
-          "url": "https://wallstreetcn.com/livenews/3149718",
-          "source": "华尔街见闻-快讯",
+          "title": "山东泰山3:1青岛海牛",
+          "url": "https://www.douyin.com/hot/2610183",
+          "source": "抖音",
           "ranks": [
-            2,
-            25
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时12分]"
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "山东童年零食杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E7%AB%A5%E5%B9%B4%E9%9B%B6%E9%A3%9F%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         }
       ]
     }
