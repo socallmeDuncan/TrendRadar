@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-08-16T21:11:51.678592+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-08-17T07:48:23.941432+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "山东 济南",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "山东梁山把二手车卖到了110个国家",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E6%A2%81%E5%B1%B1%E6%8A%8A%E4%BA%8C%E6%89%8B%E8%BD%A6%E5%8D%96%E5%88%B0%E4%BA%86110%E4%B8%AA%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "“龙餐馆”其实不在中东在山东",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BE%99%E9%A4%90%E9%A6%86%E2%80%9D%E5%85%B6%E5%AE%9E%E4%B8%8D%E5%9C%A8%E4%B8%AD%E4%B8%9C%E5%9C%A8%E5%B1%B1%E4%B8%9C",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "山东梁山把二手车卖到了110个国家",
-          "url": "https://www.toutiao.com/trending/7674055275451580452/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://socallmeDuncan.github.io/TrendRadar/img/news.jpg"
 }
