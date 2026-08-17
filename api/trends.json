@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T19:53:17.877895+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-08-17T21:23:23.917442+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国务院",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "李强主持召开国务院第十二次全体会议强调 深入贯彻落实党中央决策部署 努力完成全年经济社会发展目标任务",
@@ -14,9 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "李强主持召开国务院第十二次全体会议",
+          "url": "https://www.cls.cn/detail/2456323",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     }
